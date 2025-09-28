@@ -1,0 +1,188 @@
+---
+plan_name: "3-Year Multi-Language Bible Plan"
+primary_goal: "Improve Spanish and Japanese proficiency while using English and Chinese as supporting reference tools."
+daily_pace: "Read 3-5 verses per day, alternating focus languages every two days."
+weekend_focus: "Audio immersion, review, and consolidation."
+
+versions:
+  english:
+    formal: "NASB 2020"
+    note: "Your base language for quick, literal understanding."
+  chinese_traditional:
+    formal: "和合本 (CUV)"
+    note: "Leverage existing proficiency for context."
+  spanish:
+    target_language: true
+    focus_days: "Mon/Tue"
+    versions:
+      - name: "Nueva Versión Internacional (NVI)"
+        type: "Dynamic Equivalence"
+        source: "YouVersion"
+      - name: "Reina Valera 1995 (RVR95)"
+        type: "Formal Equivalence"
+        source: "YouVersion"
+  japanese:
+    target_language: true
+    focus_days: "Wed/Thu"
+    versions:
+      - name: "リビングバイブル (JCB)"
+        type: "Dynamic Equivalence"
+        source: "YouVersion"
+      - name: "新共同訳聖書 (Shin Kyōdō Yaku)"
+        type: "Dynamic Equivalence (Compare)"
+        source: "YouVersion"
+
+schedule_by_year:
+  year_1:
+    focus: "Foundation and Gospels"
+    content:
+      - spanish_focus: "Gospel of John, then Genesis."
+      - japanese_focus: "Gospel of Mark, then Judges."
+      - friday_review: "Review the week's verses in your target languages."
+      - weekend: "Audio immersion."
+    books:
+      gospels:
+        - "Matthew"
+        - "Mark"
+        - "Luke"
+        - "John"
+      narrative_old_testament:
+        - "Genesis"
+        - "Judges"
+    record:
+      2025-09-29: "Monday"
+      book: "Mark"
+      target_language: "spanish"
+      verses: 
+        1: 
+          - "Principio del evangelio de Jesucristo, Hijo de Dios."
+        2: 
+          - "Como está escrito en el profeta Isaías:"
+          - "«Yo envío mi mensajero delante de tu faz,"
+          - "el cual preparará tu camino delante de ti."
+        3: 
+          - "Voz del que clama en el desierto:"
+          - "“Preparad el camino del Señor."
+          - "¡Enderezad sus sendas!”»"
+      vocabulary:
+        profeta: "n. el profeta. f <-> ph"
+        delante: "adv. (in a forward position)"
+        envió: "veb. Preterite él/ella/usted enviar. send"
+        enderezad: "veb. Affirmative imperative vosotros. straighten"
+  year_2:
+    focus: "Epistles and Narrative Old Testament"
+    content:
+      - spanish_focus: "Romans, then Exodus."
+      - japanese_focus: "Acts, then 1 & 2 Samuel."
+      - friday_review: "Review the week's verses in your target languages."
+      - weekend: "Audio immersion."
+    books:
+      narrative_old_testament:
+        - "Exodus"
+        - "1 & 2 Samuel"
+      epistles:
+        - "Romans"
+        - "Acts"
+  year_3:
+    focus: "Prophets, Wisdom, and Remaining Books"
+    content:
+      - spanish_focus: "Hebrews, then Psalms."
+      - japanese_focus: "Revelation, then Isaiah."
+      - friday_review: "Review the week's verses in your target languages."
+      - weekend: "Audio immersion."
+    books:
+      prophets:
+        - "Isaiah"
+        - "Revelation"
+      wisdom:
+        - "Psalms"
+      remaining_old_testament:
+        - "Leviticus"
+        - "Numbers"
+        - "Deuteronomy"
+        - "Joshua"
+        - "Ruth"
+        - "1 & 2 Kings"
+        - "1 & 2 Chronicles"
+        - "Ezra"
+        - "Nehemiah"
+        - "Esther"
+        - "Job"
+        - "Proverbs"
+        - "Ecclesiastes"
+        - "Song of Solomon"
+        - "Jeremiah"
+        - "Lamentations"
+        - "Ezekiel"
+        - "Daniel"
+        - "Hosea"
+        - "Joel"
+        - "Amos"
+        - "Obadiah"
+        - "Jonah"
+        - "Micah"
+        - "Nahum"
+        - "Habakkuk"
+        - "Zephaniah"
+        - "Haggai"
+        - "Zechariah"
+        - "Malachi"
+      remaining_new_testament:
+        - "1 & 2 Corinthians"
+        - "Galatians"
+        - "Ephesians"
+        - "Philippians"
+        - "Colossians"
+        - "1 & 2 Thessalonians"
+        - "1 & 2 Timothy"
+        - "Titus"
+        - "Philemon"
+        - "Hebrews"
+        - "James"
+        - "1 & 2 Peter"
+        - "1, 2, & 3 John"
+        - "Jude"
+
+weekly_process:
+  daily_reading: "3-5 Verses"
+  example_monday_spanish:
+    steps:
+      - task: "Read for Context"
+        details: "Read the verses in English (NASB 2020) and Chinese (CUV - Traditional) on YouVersion."
+      - task: "Immerse in Spanish"
+        details: "Read and listen to the verses in the Spanish NVI. Then, repeat with the Spanish RVR95."
+      - task: "Review and Reinforce"
+        details: "Make notes on new vocabulary and grammar."
+  example_wednesday_japanese:
+    steps:
+      - task: "Read for Context"
+        details: "Read the verses in English (NASB 2020) and Chinese (CUV - Traditional) on YouVersion."
+      - task: "Immerse in Japanese (YouVersion)"
+        details: "Read and listen to the same verses in the JCB (リビングバイブル) and Shin Kyōdō Yaku."
+      - task: "Review and Reinforce"
+        details: "Compare phrasing across both Japanese versions and note new words or grammatical structures."
+  example_friday_review:
+    steps:
+      - task: "Audio Immersion"
+        details: "Listen to the audio for the week's verses in Spanish and Japanese."
+      - task: "Language Check"
+        details: "Review your notes and compare translations of any challenging verses."
+  example_weekend:
+    tasks:
+      - task: "Passive Audio"
+        details: "Listen to the audio versions of the passages during daily activities."
+      - task: "Review"
+        details: "Review flashcards or notes of new vocabulary."
+      - task: "Rest"
+        details: "Take a break to avoid burnout."
+
+week_1_verses:
+  - period: "Monday and Tuesday (Spanish Focus)"
+    verses: "John 1:1-5"
+  - period: "Wednesday and Thursday (Japanese Focus)"
+    verses: "John 1:6-10"
+  - period: "Friday (Review)"
+    verses: "John 1:1-10 across all languages."
+  - period: "Weekend"
+    verses: "Audio immersion."
+

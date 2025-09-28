@@ -1,0 +1,4 @@
+Japanese: JCB, 新共同訳
+Spanish: RVR95, NVI, 
+English: NASB2020, NLT
+Chinese: 和合本2020, CNV, 文理和合譯本

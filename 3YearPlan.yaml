@@ -49,26 +49,6 @@ schedule_by_year:
       narrative_old_testament:
         - "Genesis"
         - "Judges"
-    record:
-      2025-09-29: "Monday"
-      book: "Mark"
-      target_language: "spanish"
-      verses: 
-        1: 
-          - "Principio del evangelio de Jesucristo, Hijo de Dios."
-        2: 
-          - "Como está escrito en el profeta Isaías:"
-          - "«Yo envío mi mensajero delante de tu faz,"
-          - "el cual preparará tu camino delante de ti."
-        3: 
-          - "Voz del que clama en el desierto:"
-          - "“Preparad el camino del Señor."
-          - "¡Enderezad sus sendas!”»"
-      vocabulary:
-        profeta: "n. el profeta. f <-> ph"
-        delante: "adv. (in a forward position)"
-        envió: "veb. Preterite él/ella/usted enviar. send"
-        enderezad: "veb. Affirmative imperative vosotros. straighten"
   year_2:
     focus: "Epistles and Narrative Old Testament"
     content:

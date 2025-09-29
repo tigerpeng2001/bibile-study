@@ -5,13 +5,13 @@ daily_pace: "Read 3-5 verses per day, alternating focus languages every two days
 weekend_focus: "Audio immersion, review, and consolidation."
 
 versions:
-  english:
+  English:
     formal: "NASB 2020"
     note: "Your base language for quick, literal understanding."
-  chinese_traditional:
+  Chinese_traditional:
     formal: "和合本 (CUV)"
     note: "Leverage existing proficiency for context."
-  spanish:
+  Spanish:
     target_language: true
     focus_days: "Mon/Tue"
     versions:
@@ -21,7 +21,7 @@ versions:
       - name: "Reina Valera 1995 (RVR95)"
         type: "Formal Equivalence"
         source: "YouVersion"
-  japanese:
+  Japanese:
     target_language: true
     focus_days: "Wed/Thu"
     versions:
@@ -36,9 +36,9 @@ schedule_by_year:
   year_1:
     focus: "Foundation and Gospels"
     content:
-      - spanish_focus: "Gospel of John, then Genesis."
-      - japanese_focus: "Gospel of Mark, then Judges."
-      - friday_review: "Review the week's verses in your target languages."
+      - Spanish_focus: "Gospel of John, then Genesis."
+      - Japanese_focus: "Gospel of Mark, then Judges."
+      - Friday_review: "Review the week's verses in your target languages."
       - weekend: "Audio immersion."
     books:
       gospels:
@@ -52,9 +52,9 @@ schedule_by_year:
   year_2:
     focus: "Epistles and Narrative Old Testament"
     content:
-      - spanish_focus: "Romans, then Exodus."
-      - japanese_focus: "Acts, then 1 & 2 Samuel."
-      - friday_review: "Review the week's verses in your target languages."
+      - Spanish_focus: "Romans, then Exodus."
+      - Japanese_focus: "Acts, then 1 & 2 Samuel."
+      - Friday_review: "Review the week's verses in your target languages."
       - weekend: "Audio immersion."
     books:
       narrative_old_testament:
@@ -66,9 +66,9 @@ schedule_by_year:
   year_3:
     focus: "Prophets, Wisdom, and Remaining Books"
     content:
-      - spanish_focus: "Hebrews, then Psalms."
-      - japanese_focus: "Revelation, then Isaiah."
-      - friday_review: "Review the week's verses in your target languages."
+      - Spanish_focus: "Hebrews, then Psalms."
+      - Japanese_focus: "Revelation, then Isaiah."
+      - Friday_review: "Review the week's verses in your target languages."
       - weekend: "Audio immersion."
     books:
       prophets:

@@ -9,19 +9,9 @@ on:
   workflow_dispatch: # Allows manual trigger with input parameters
 
 jobs:
-  update-file-1:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-
-      # Add this step to ensure the branch is up-to-date
-      - name: Pull latest changes
-        run: git pull origin main
 
   combine_all:
     runs-on: ubuntu-latest
-    needs: update-file-1
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -53,20 +43,9 @@ jobs:
           git commit -m "chore: Update combined diary file (all)" || echo "No changes to commit"
           git push
 
-  update-file-2:
-    runs-on: ubuntu-latest
-    needs: combine_all
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-
-      # Add this step to ensure the branch is up-to-date
-      - name: Pull latest changes
-        run: git pull origin main
-
   combine_by_mark_spanish:
     runs-on: ubuntu-latest
-    needs:  update-file-2 # Ensure all diaries are processed first
+    needs: combine_all #Ensure all diaries are processed first
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -86,6 +65,7 @@ jobs:
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git pull # pull the change made by combine-all
           git add combined_diary_mark_spanish.yaml
           git commit -m "chore: Update combined diary file (Mark, spanish)" || echo "No changes to commit"
           git push

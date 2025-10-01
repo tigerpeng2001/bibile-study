@@ -4,9 +4,9 @@ book: "Mark"
 version: "Reina Valera 1995 (RVR95)"
 target_language: "Spanish"
 verses:
-  1:4:
+  "1:4":
     - "Bautizaba Juan en el desierto y predicaba el bautismo de arrepentimiento para perdón de pecados."
-  1:5:
+  "1:5":
     - "Acudía a él toda la provincia de Judea y los de Jerusalén, y eran todos bautizados por él en el río Jordán, confesando sus pecados."
 vocabulary:
   acudía: "v. Imperfect él/ella/usted acudir. come, go, resort to"

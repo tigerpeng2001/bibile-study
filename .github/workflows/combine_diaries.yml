@@ -43,7 +43,7 @@ jobs:
           git commit -m "chore: Update combined diary file (all)" || echo "No changes to commit"
           git push
 
-  combine_by_mark_spanish:
+  combine_by_spanish:
     runs-on: ubuntu-latest
     needs: combine_all #Ensure all diaries are processed first
     steps:
@@ -58,7 +58,7 @@ jobs:
           python -m pip install --upgrade pip
           pip install PyYAML
       - name: Combine Mark Spanish diaries
-        run: python ./scripts/combine_diaries.py --output-file combined_diary_mark_spanish.yaml --filter-attr book --filter-val Mark
+        run: python ./scripts/combine_diaries.py --output-file combined_diary_spanish.yaml --filter-attr target_language --filter-val Spanish
       - name: Commit and push changes
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -66,6 +66,33 @@ jobs:
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           git pull # pull the change made by combine-all
-          git add combined_diary_mark_spanish.yaml
-          git commit -m "chore: Update combined diary file (Mark, spanish)" || echo "No changes to commit"
+          git add combined_diary_spanish.yaml
+          git commit -m "chore: Update combined Sapnish diary file" || echo "No changes to commit"
+          git push
+
+  combine_by_japanese:
+    runs-on: ubuntu-latest
+    needs: combine_all #Ensure all diaries are processed first
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install PyYAML
+      - name: Combine Japanese diaries
+        run: python ./scripts/combine_diaries.py --output-file combined_diary_japanese.yaml --filter-attr target_language --filter-val Japanese
+      - name: Commit and push changes
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git pull # pull the change made by combine-all
+          git add combined_diary_japanese.yaml
+          git commit -m "chore: Update combined Japanese diary file" || echo "No changes to commit"
           git push

@@ -4,18 +4,18 @@ book: "Mark"
 version: "Reina Valera 1995 (RVR95)"
 target_language: "Spanish"
 verses:
-  4:
+  1:4:
     - "Bautizaba Juan en el desierto y predicaba el bautismo de arrepentimiento para perdón de pecados."
-  5:
+  1:5:
     - "Acudía a él toda la provincia de Judea y los de Jerusalén, y eran todos bautizados por él en el río Jordán, confesando sus pecados."
 vocabulary:
-  acudía: "verb. Imperfect él/ella/usted acudir. come, go, resort to"
-  arrepentimiento: "noun. repentance"
-  bautismo: "noun. baptism"
-  bautizaba: "verb. Imperfect él/ella/usted bautizar. baptize"
-  confesando: "verb. Gerund confesar. confessing"
-  pecados: "noun. sins"
-  perdón: "noun. forgiveness"
-  predicaba: "verb. Imperfect él/ella/usted predicar. preach"
-  provincia: "noun. province"
-  río: "noun. river"
+  acudía: "v. Imperfect él/ella/usted acudir. come, go, resort to"
+  arrepentimiento: "n. repentance"
+  bautismo: "n. baptism"
+  bautizaba: "v. Imperfect él/ella/usted bautizar. baptize"
+  confesando: "v. Gerund confesar. confessing"
+  pecados: "n. sins"
+  perdón: "n. forgiveness"
+  predicaba: "v. Imperfect él/ella/usted predicar. preach"
+  provincia: "n. province"
+  río: "n. river"

@@ -4,13 +4,13 @@
   version: Reina Valera 1995 (RVR95)
   target_language: Spanish
   verses:
-    61:
+    '1:1':
     - Principio del evangelio de Jesucristo, Hijo de Dios.
-    62:
+    '1:2':
     - 'Como está escrito en el profeta Isaías:'
     - «Yo envío mi mensajero delante de tu faz,
     - el cual preparará tu camino delante de ti.
-    63:
+    '1:3':
     - 'Voz del que clama en el desierto:'
     - '"Preparad el camino del Señor.'
     - ¡Enderezad sus sendas!"»
@@ -30,10 +30,10 @@
   version: Reina Valera 1995 (RVR95)
   target_language: Spanish
   verses:
-    64:
+    '1:4':
     - Bautizaba Juan en el desierto y predicaba el bautismo de arrepentimiento para
       perdón de pecados.
-    65:
+    '1:5':
     - Acudía a él toda la provincia de Judea y los de Jerusalén, y eran todos bautizados
       por él en el río Jordán, confesando sus pecados.
   vocabulary:
@@ -53,13 +53,13 @@
   version: 新共同訳
   target_language: Japanese
   verses:
-    66:
+    '1:6':
     - ヨハネはらくだの毛衣を着、腰に革の帯を締め、いなごと野蜜を食べていた。
-    67:
+    '1:7':
     - 彼はこう宣べ伝えた。
     - 「わたしよりも優れた方が、後から来られる。
     - わたしは、かがんでその方の履物のひもを解く値打ちもない。
-    68:
+    '1:8':
     - わたしは水であなたたちに洗礼を授けたが、その方は聖霊で洗礼をお授けになる。」
   vocabulary:
     らくだ: n. 駱駝. camel

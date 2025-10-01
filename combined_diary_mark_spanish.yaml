@@ -4,13 +4,13 @@
   version: Reina Valera 1995 (RVR95)
   target_language: Spanish
   verses:
-    1:
+    61:
     - Principio del evangelio de Jesucristo, Hijo de Dios.
-    2:
+    62:
     - 'Como está escrito en el profeta Isaías:'
     - «Yo envío mi mensajero delante de tu faz,
     - el cual preparará tu camino delante de ti.
-    3:
+    63:
     - 'Voz del que clama en el desierto:'
     - '"Preparad el camino del Señor.'
     - ¡Enderezad sus sendas!"»
@@ -18,8 +18,8 @@
     camino: n. road, path, track, journey
     cual: pron. (relativea) which/who. adv. as
     delante: adv. (in a forward position)
-    envió: veb. Preterite él/ella/usted enviar. send
-    enderezad: veb. Affirmative imperative vosotros. straighten
+    envió: v. Preterite él/ella/usted enviar. send
+    enderezad: v. Affirmative imperative vosotros. straighten
     faz: n. la faz. face
     mensajero: n. messenger
     profeta: n. el profeta. f <-> ph
@@ -30,20 +30,20 @@
   version: Reina Valera 1995 (RVR95)
   target_language: Spanish
   verses:
-    4:
+    64:
     - Bautizaba Juan en el desierto y predicaba el bautismo de arrepentimiento para
       perdón de pecados.
-    5:
+    65:
     - Acudía a él toda la provincia de Judea y los de Jerusalén, y eran todos bautizados
       por él en el río Jordán, confesando sus pecados.
   vocabulary:
-    acudía: verb. Imperfect él/ella/usted acudir. come, go, resort to
-    arrepentimiento: noun. repentance
-    bautismo: noun. baptism
-    bautizaba: verb. Imperfect él/ella/usted bautizar. baptize
-    confesando: verb. Gerund confesar. confessing
-    pecados: noun. sins
-    perdón: noun. forgiveness
-    predicaba: verb. Imperfect él/ella/usted predicar. preach
-    provincia: noun. province
-    río: noun. river
+    acudía: v. Imperfect él/ella/usted acudir. come, go, resort to
+    arrepentimiento: n. repentance
+    bautismo: n. baptism
+    bautizaba: v. Imperfect él/ella/usted bautizar. baptize
+    confesando: v. Gerund confesar. confessing
+    pecados: n. sins
+    perdón: n. forgiveness
+    predicaba: v. Imperfect él/ella/usted predicar. preach
+    provincia: n. province
+    río: n. river

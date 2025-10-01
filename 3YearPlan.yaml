@@ -31,6 +31,8 @@ versions:
       - name: "新共同訳聖書 (Shin Kyōdō Yaku)"
         type: "Dynamic Equivalence (Compare)"
         source: "YouVersion"
+        reference: 
+          - "https://archive.org/details/bible-japanese-new-interc"
 
 schedule_by_year:
   year_1:

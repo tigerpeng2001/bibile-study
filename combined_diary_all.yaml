@@ -69,3 +69,25 @@
     よりも: than, in comparison to
     かがんで: で form，屈む　かがむ。to stoop, to lean over, to bend forward
     履物: n. はきもの。footwear, footgear, shoes
+- date: '2025-10-01'
+  weekday: Wednesday
+  book: マルコの福音書
+  version: 新共同訳
+  target_language: Japanese
+  verses:
+    '1:6':
+    - ヨハネはらくだの毛衣を着、腰に革の帯を締め、いなごと野蜜を食べていた。
+    '1:7':
+    - 彼はこう宣べ伝えた。
+    - 「わたしよりも優れた方が、後から来られる。
+    - わたしは、かがんでその方の履物のひもを解く値打ちもない。
+    '1:8':
+    - わたしは水であなたたちに洗礼を授けたが、その方は聖霊で洗礼をお授けになる。」
+  vocabulary:
+    らくだ: n. 駱駝. camel
+    着: v. 着る きる。to wear, to put on
+    腰: n.　こし。waist
+    締め: v. 締める、しめる。to tie, to fasten, to tighten
+    よりも: than, in comparison to
+    かがんで: で form，屈む　かがむ。to stoop, to lean over, to bend forward
+    履物: n. はきもの。footwear, footgear, shoes

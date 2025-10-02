@@ -20,25 +20,24 @@
     よりも: than, in comparison to
     かがんで: で form，屈む　かがむ。to stoop, to lean over, to bend forward
     履物: n. はきもの。footwear, footgear, shoes
-- date: '2025-10-01'
-  weekday: Wednesday
+- date: '2025-10-02'
+  weekday: Thursday
   book: マルコの福音書
   version: 新共同訳
   target_language: Japanese
   verses:
-    '1:6':
-    - ヨハネはらくだの毛衣を着、腰に革の帯を締め、いなごと野蜜を食べていた。
-    '1:7':
-    - 彼はこう宣べ伝えた。
-    - 「わたしよりも優れた方が、後から来られる。
-    - わたしは、かがんでその方の履物のひもを解く値打ちもない。
-    '1:8':
-    - わたしは水であなたたちに洗礼を授けたが、その方は聖霊で洗礼をお授けになる。」
+    '1:9':
+    - そのころ、イエスはガリラヤのナザレから来て、ヨルダン川でヨハネから洗礼を受けられた受けられた。
+    '1:10':
+    - 水の中から上がるとすぐ、天が裂けて“霊”が鳩のように御自分に降って来るのを、御覧になった。
+    '1:11':
+    - すると、「あなたはわたしの愛する子、わたしの心に適う者」という声が、天から聞こえた。
   vocabulary:
-    らくだ: n. 駱駝. camel
-    着: v. 着る きる。to wear, to put on
-    腰: n.　こし。waist
-    締め: v. 締める、しめる。to tie, to fasten, to tighten
-    よりも: than, in comparison to
-    かがんで: で form，屈む　かがむ。to stoop, to lean over, to bend forward
-    履物: n. はきもの。footwear, footgear, shoes
+    そのころ: exp.,n. その頃. at that time, in those days, at that moment, then
+    洗礼: n. [バプテスマ] せいれい
+    受けられた: v. 受ける うける；受けられる Potential Or Passive Form; 受けられた Plain Past
+    裂けて: v. 裂く 裂く；裂ける Potential Form; 裂けて て・で Form
+    降って: iv. 降る/下る くだる。to descend, to go down, to come down | 降る ふる to fall (of rain,
+      snow...), to come down
+    すると: conj. thereupon, hereupon
+    適う: v. かなう 叶う。to come true, to be realized, to be fulfilled.

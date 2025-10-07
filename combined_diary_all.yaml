@@ -138,3 +138,29 @@
   Friday_review:
     note:
       1: ''
+- date: '2025-10-07'
+  weekday: Tuesday
+  book: Mark
+  version: Reina Valera 1995 (RVR95)
+  target_language: Spanish
+  verses:
+    '1:14':
+    - Después que Juan fue encarcelado,
+    - Jesús fue a Galilea predicando el evangelio del reino de Dios.
+    '1:15':
+    - 'Decía: «El tiempo se ha cumplido y el reino de Dios se ha acercado.'
+    - ¡Arrepentíos y creed en el evangelio!»
+  vocabulary:
+    después: adv. after, later, afterwards, then
+    fue:
+      1: v. Preterite él/ella/usted conjugation of ser
+      2: v. Preterite él/ella/usted conjugation of ir
+    encarcelado: adv.Past participle of encarcelar. to imprison, to jail
+    cumplido: v. Past participle of cumplir. to achieve, to fulfill
+    enderezad: v. Affirmative imperative vosotros. straighten
+    acercado: v. Past participle of acercar. to move closer
+    arrepentíos: v. Affirmative imperative vos conjugation of arrepentirse. to repent
+    creed: v. Affirmative imperative vosotros conjugation of creer. to believe
+  Friday_review:
+    note:
+      1: ''

@@ -57,3 +57,28 @@
     心に叶う: 心に適う こころにかなう (exp,v5u) to be pleased with; to be to one's liking.
     適う: v. かなう 叶う。to come true, to be realized, to be fulfilled.
     聞こえる: きこえる (v1,vi) (1) to be heard; to be audible; to reach one's ears; ...
+- date: '2025-10-08'
+  weekday: Wednesday
+  book: マルコの福音書
+  version: 新共同訳
+  target_language: Japanese
+  verses:
+    '1:16':
+    - イエスは、ガリラヤ湖のほとりを歩いておられたとき、
+    - シモンとシモンの兄弟アンデレが湖で網を打っているのを御覧になった。
+    - '彼らは漁師だった。 '
+    '1:17':
+    - 'イエスは、「わたしについて来なさい。人間をとる漁師にしよう」と言われた。 '
+    '1:18':
+    - 二人はすぐに網を捨てて従った。
+  vocabulary:
+    湖:
+      1: "こ\t(n) lake (in place names) (suf)"
+      2: みずうみ (n) lake
+    ほとり: "n. 畔/辺/辺り\tほとり\t(n) (uk) side (esp. of a water body); edge; bank; shore"
+    歩いて: あるいて (v) て/で form of 歩く あるく to walk
+    おられた: 居る おる おられる Potential Or Passive Form おられた Plain Past
+    網: 網 n. net, web
+    漁師: ' りょうし fisherman (n)'
+    について: 似つく 似付く につく について て・で Form to closely resemble (v5k,vi) to suit well, to
+      match well, to go well with (v5k,vi)

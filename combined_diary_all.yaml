@@ -137,7 +137,47 @@
     fiera: n. la fiera. wild beast, wild animal
   Friday_review:
     note:
-      1: ''
+      number:
+      - cero
+      - uno
+      - dos
+      - tres
+      - cuatro
+      - cinco
+      - seis
+      - siete
+      - ocho
+      - nueve
+      - diez
+      - once
+      - doce
+      - trece
+      - catorce
+      - quince
+      - dieciséis
+      - diecisiete
+      - dieciocho
+      - diecinueve
+      - veinte
+      - veintiuno
+      - veintidós
+      - veintitrés
+      - veinticuatro
+      - veinticinco
+      - veintiséis
+      - veintisiete
+      - veintiocho
+      - veintinueve
+      - treinta
+      - treinta y uno
+      - treinta y dos
+      - cuarenta
+      - cincuenta
+      - sesenta
+      - setenta
+      - ochenta
+      - noventa
+      - cien
 - date: '2025-10-07'
   weekday: Tuesday
   book: Mark
@@ -155,6 +195,7 @@
     fue:
       1: v. Preterite él/ella/usted conjugation of ser
       2: v. Preterite él/ella/usted conjugation of ir
+    predicando: v. Present participle of predicar. to preach, to proclaim
     encarcelado: adv.Past participle of encarcelar. to imprison, to jail
     cumplido: v. Past participle of cumplir. to achieve, to fulfill
     enderezad: v. Affirmative imperative vosotros. straighten
@@ -163,7 +204,48 @@
     creed: v. Affirmative imperative vosotros conjugation of creer. to believe
   Friday_review:
     note:
-      1: ''
+      1:14 grammar:
+      - gerund_function: The gerund 'predicando' connects the two actions semantically,
+          indicating simultaneity rather than a simple sequence. It describes *how*
+          the main action was performed.
+    alternative_conjunction:
+    - alternative_structure: Jesús fue a Galilea y predicó el evangelio...
+    - nuance_change: Using 'y' would make the two actions (going and preaching) separate
+        events of equal weight, rather than one describing the manner of the other.
+    - Gerund vs. Progressive Tense:
+      - similarity:
+          concept: Both the gerund and progressive tense involve the gerund form of
+            a verb (ending in -ando for -ar verbs or -iendo for -er/-ir verbs).
+      - difference:
+          concept: Function
+          description: The core difference is in grammatical function. The gerund
+            (*gerundio* in Spanish) can function as a participle describing another
+            verb, while a progressive tense is a compound verb that describes an action
+            in progress.
+      - spanish_gerund:
+          term: Gerundio
+          form: Ending in -ando or -iendo (e.g., *predicando*).
+          function: Used adverbially to modify the main verb. It describes a secondary,
+            simultaneous action or the manner of the main action, but it is not a
+            complete verb by itself.
+          example:
+            text: Jesús fue a Galilea *predicando*.
+            analysis:
+            - verb: fue (went)
+            - gerund: predicando (preaching) modifies 'fue' by explaining *how* Jesus
+                went.
+      - spanish_progressive_tense:
+          term: Tiempos progresivos
+          form: Composed of the auxiliary verb *estar* conjugated for tense, followed
+            by the gerund.
+          function: Expresses an action that is currently in progress at a specific
+            point in time.
+          example:
+            text: Jesús *estaba predicando*.
+            analysis:
+            - auxiliary_verb: estaba (was)
+            - gerund: predicando (preaching)
+            - meaning: Jesus was in the process of preaching.
 - date: '2025-10-08'
   weekday: Wednesday
   book: マルコの福音書
@@ -189,6 +271,44 @@
     漁師: ' りょうし fisherman (n)'
     ついて: 着く つく ついて て・で Form to arrive at, to reach (v5k,vi) to sit on, to sit at (e.g.
       the table) (v5k,vi)
+  Friday_review:
+    note:
+    - 歩いておられると: null
+      verb_base: 歩く あるく - to walk
+      conjugation_and_particles:
+      - part: 歩いて (あるいて)
+        function: 連用形 + 接続助詞「て」 (Conjunctive form + particle 'te')
+        role: Indicates a continuous action, setting up the context for the following
+          verb.
+      - part: おられた
+        function: 補助動詞「おる」の尊敬語過去形
+        role: Expresses a respectful past continuous state of the subject (Jesus).
+        components:
+        - auxiliary: おる - to be/exist
+        - honorific: The form おられ is the honorific stem.
+        - tense: た particle indicates past/perfective aspect.
+      - part: とき
+        function: 名詞
+        role: Specifies the precise point or period of time during which the action
+          occurred.
+      - overall_structure: テ形 + 補助動詞 (尊敬語・過去) + 時を示す名詞
+    - 御覧になった:
+        part_of_speech: 尊敬語動詞 (Respectful Verb)
+        role: Main verb, shows respect for Jesus ('saw').
+        base_verb: 見る (みる - to see)
+        respectful_form: ご覧になる (ごらんになる)
+        grammatical_breakdown:
+        - part: 御覧に (ごらんに)
+          function: Verb stem + honorific prefix + particle
+          details:
+            prefix: 御 (ご) - honorific prefix
+            stem: 覧 (らん) - a Sino-Japanese form of 'to see'
+            particle: に  - connects the nominalized verb form to the auxiliary
+        - part: なった (なった)
+          function: Past tense auxiliary verb
+          details:
+            base_form: なる (なる - to become)
+            tense: Past/Perfective (連用形 + た)
 - date: '2025-10-09'
   weekday: Thursday
   book: マルコの福音書

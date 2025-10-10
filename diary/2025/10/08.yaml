@@ -22,3 +22,39 @@ vocabulary:
   網: "網 n. net, web"
   漁師: " りょうし fisherman (n)"
   ついて: "着く つく ついて て・で Form to arrive at, to reach (v5k,vi) to sit on, to sit at (e.g. the table) (v5k,vi)"
+Friday_review:
+  note:
+  - "歩いておられると":
+    verb_base: "歩く あるく - to walk"
+    conjugation_and_particles:
+    - part: "歩いて (あるいて)"
+      function: "連用形 + 接続助詞「て」 (Conjunctive form + particle 'te')"
+      role: "Indicates a continuous action, setting up the context for the following verb."
+    - part: "おられた"
+      function: "補助動詞「おる」の尊敬語過去形" 
+      role: "Expresses a respectful past continuous state of the subject (Jesus)."
+      components:
+        - auxiliary: "おる - to be/exist"
+        - honorific: "The form おられ is the honorific stem."
+        - tense: "た particle indicates past/perfective aspect."
+    - part: "とき"
+      function: "名詞"
+      role: "Specifies the precise point or period of time during which the action occurred."
+    - overall_structure: "テ形 + 補助動詞 (尊敬語・過去) + 時を示す名詞"
+  - "御覧になった" :
+      part_of_speech: "尊敬語動詞 (Respectful Verb)"
+      role: "Main verb, shows respect for Jesus ('saw')."
+      base_verb: "見る (みる - to see)"
+      respectful_form: "ご覧になる (ごらんになる)"
+      grammatical_breakdown:
+      - part: "御覧に (ごらんに)"
+        function: "Verb stem + honorific prefix + particle"
+        details:
+          prefix: "御 (ご) - honorific prefix"
+          stem: "覧 (らん) - a Sino-Japanese form of 'to see'"
+          particle: "に  - connects the nominalized verb form to the auxiliary"
+      - part: "なった (なった)" 
+        function: "Past tense auxiliary verb"
+        details:
+          base_form: "なる (なる - to become)"
+          tense: "Past/Perfective (連用形 + た)"

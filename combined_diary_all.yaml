@@ -189,3 +189,26 @@
     漁師: ' りょうし fisherman (n)'
     ついて: 着く つく ついて て・で Form to arrive at, to reach (v5k,vi) to sit on, to sit at (e.g.
       the table) (v5k,vi)
+- date: '2025-10-09'
+  weekday: Thursday
+  book: マルコの福音書
+  version: 新共同訳
+  target_language: Japanese
+  verses:
+    '1:19':
+    - また、少し進んで、ゼベダイの子ヤコブとその兄弟ヨハネが、舟の中で網の手入れをしているのを御覧になると、
+    '1:20':
+    - すぐに彼らをお呼びになった。
+    - 'この二人も父ゼベダイを雇い人たちと一緒に舟に残して、イエスの後について行った。 '
+  vocabulary:
+    進んで: 進む すすむ 進んで て・で Form to advance, to go forward (v5m,vi)...
+    舟: 舟 ふね n. boat, ship
+    網: 網 あみ n. net
+    手入れ: 手入れ ていれ n. maintenance, care, looking after, servicing
+    雇い人: 雇い人 やとやと n. hired person, employee, servant
+    残して: 残す のこす 残して て・で Form to leave (behind, over), to bequeath (v5s,vt)
+    後: あと (n-adv,n) after, later, afterwards; behind; rear; back; later on; since
+      then; remainder
+    について: に就いて に就いて に就いて (exp) about, concerning, regarding; in regard to; as to;
+      on (e.g. a topic); on (e.g. a subject)
+    行った: 行く いく 行った Plain Past of 行く いく to go (v5k,vi)

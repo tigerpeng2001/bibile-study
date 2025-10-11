@@ -13,15 +13,13 @@ verses:
   "1:18":
     - "二人はすぐに網を捨てて従った。"
 vocabulary:
-  湖: 
-    1: "こ	(n) lake (in place names) (suf)"
-    2: "みずうみ (n) lake"
-  ほとり: "n. 畔/辺/辺り	ほとり	(n) (uk) side (esp. of a water body); edge; bank; shore"
-  歩いて: "あるいて (v) て/で form of 歩く あるく to walk"
-  おられた: "居る おる おられる Potential Or Passive Form おられた Plain Past"
-  網: "網 n. net, web"
-  漁師: " りょうし fisherman (n)"
-  ついて: "着く つく ついて て・で Form to arrive at, to reach (v5k,vi) to sit on, to sit at (e.g. the table) (v5k,vi)"
+  湖: "n. 湖 (みずうみ). (1) lake; (2) (in place names, suf) こ"
+  ほとり: "n. 畔/辺/辺り (ほとり). side (esp. of a water body); edge; bank; shore"
+  歩いて: "v. 歩く (あるく). て-form. to walk"
+  おられた: "v. 居る (おる). Plain Past of the honorific/potential form おられる. to be/exist (used respectfully)"
+  網: "n. 網 (あみ). net, web"
+  漁師: "n. 漁師 (りょうし). fisherman"
+  ついて: "v. 着く (つく). て-form. (1) to arrive at, to reach; (2) to sit on, to sit at (e.g. the table)"
 Friday_review:
   note:
   - "歩いておられると":

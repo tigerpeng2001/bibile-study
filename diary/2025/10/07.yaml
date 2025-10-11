@@ -11,17 +11,15 @@ verses:
     - "Decía: «El tiempo se ha cumplido y el reino de Dios se ha acercado."
     - "¡Arrepentíos y creed en el evangelio!»"
 vocabulary:
-  después: "adv. after, later, afterwards, then"
-  fue:
-     1: "v. Preterite él/ella/usted conjugation of ser"
-     2: "v. Preterite él/ella/usted conjugation of ir"
-  predicando: "v. Present participle of predicar. to preach, to proclaim"
-  encarcelado: "adv.Past participle of encarcelar. to imprison, to jail"
-  cumplido: "v. Past participle of cumplir. to achieve, to fulfill"
-  enderezad: "v. Affirmative imperative vosotros. straighten"
-  acercado: "v. Past participle of acercar. to move closer"
-  arrepentíos: "v. Affirmative imperative vos conjugation of arrepentirse. to repent"
-  creed: "v. Affirmative imperative vosotros conjugation of creer. to believe"
+  vocabulary:
+  fue: "v. ser/ir. Preterite él/ella/usted conjugation. (1) was (ser); (2) went (ir)"
+  predicando: "v. predicar. Gerund/Present participle. preaching, proclaiming"
+  encarcelado: "adj. encarcelado. Past participle of encarcelar. imprisoned, jailed"
+  cumplido: "adj. cumplido. Past participle of cumplir. achieved, fulfilled"
+  enderezad: "v. enderezar. Affirmative imperative vosotros conjugation. straighten"
+  acercado: "adj. acercado. Past participle of acercar. moved closer"
+  arrepentíos: "v. arrepentirse. Affirmative imperative vos conjugation (used in some regions) or reflexive command form. repent"
+  creed: "v. creer. Affirmative imperative vosotros conjugation. believe"
 Friday_review:
   note: 
     "1:14 grammar":

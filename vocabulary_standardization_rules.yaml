@@ -1,0 +1,63 @@
+---
+vocabulary_standardization_rules:
+  # ----------------------------------------------------------------------
+  # 1. GENERAL FORMATTING RULE
+  # ----------------------------------------------------------------------
+  general_rule:
+    description: |
+      Each entry must follow this exact single-line structure to ensure consistency across languages:
+      "{part_of_speech}. {reading_or_base_form}. {English_definition}. {Grammatical_notes}"
+    format_template: '{part_of_speech}. {reading_or_base_form}. {English_definition}. {Grammatical_notes}'
+
+  # ----------------------------------------------------------------------
+  # 2. COMPONENT REQUIREMENTS
+  # ----------------------------------------------------------------------
+  component_requirements:
+    part_of_speech:
+      label: "Part of Speech"
+      placement: "First item in the definition string."
+      formatting: "Use common abbreviations followed by a period (.)."
+      examples: [ "n.", "v.", "adj.", "adv.", "conj.", "exp.", "part.", "pron." ]
+
+    reading_or_base_form:
+      label: "Reading / Base Form"
+      placement: "Second item."
+      formatting: "Include the reading for Japanese (kana/kanji) or the infinitive for Spanish verbs, followed by a period (.)."
+      examples_japanese:
+        - "屈む (かがむ)"
+        - "駱駝"
+      examples_spanish:
+        - "enviar"
+        - "la gente"
+
+    english_definition:
+      label: "English Definition"
+      placement: "Third item."
+      formatting: "Multiple meanings must be separated by semicolons (;)."
+      example: "to tie, to fasten, to tighten"
+
+    grammatical_notes:
+      label: "Grammatical Notes"
+      placement: "Final item."
+      formatting: "Required for conjugated verbs, idiomatic expressions, or to clarify usage. Use a full sentence structure where possible."
+      examples:
+        - "て-form."
+        - "Preterite él/ella/usted conjugation."
+        - "Past participle of encarcelar."
+
+  # ----------------------------------------------------------------------
+  # 3. EXAMPLE IMPLEMENTATIONS
+  # ----------------------------------------------------------------------
+  examples:
+    japanese_verb:
+      word: "かがんで"
+      entry: "v. 屈む (かがむ). to stoop, to lean over, to bend forward. て-form."
+    japanese_noun:
+      word: "値打ち"
+      entry: "n. ねうち. (1) value, worth, merit; (2) estimation, evaluation, appraisal."
+    spanish_verb:
+      word: "acudía"
+      entry: "v. acudir. come, go, resort to. Imperfect él/ella/usted conjugation."
+    spanish_noun:
+      word: "fiera"
+      entry: "n. la fiera. wild beast, wild animal."``

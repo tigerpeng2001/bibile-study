@@ -78,7 +78,47 @@
     fiera: n. la fiera. wild beast, wild animal
   Friday_review:
     note:
-      1: ''
+      number:
+      - cero
+      - uno
+      - dos
+      - tres
+      - cuatro
+      - cinco
+      - seis
+      - siete
+      - ocho
+      - nueve
+      - diez
+      - once
+      - doce
+      - trece
+      - catorce
+      - quince
+      - dieciséis
+      - diecisiete
+      - dieciocho
+      - diecinueve
+      - veinte
+      - veintiuno
+      - veintidós
+      - veintitrés
+      - veinticuatro
+      - veinticinco
+      - veintiséis
+      - veintisiete
+      - veintiocho
+      - veintinueve
+      - treinta
+      - treinta y uno
+      - treinta y dos
+      - cuarenta
+      - cincuenta
+      - sesenta
+      - setenta
+      - ochenta
+      - noventa
+      - cien
 - date: '2025-10-07'
   weekday: Tuesday
   book: Mark
@@ -96,6 +136,7 @@
     fue:
       1: v. Preterite él/ella/usted conjugation of ser
       2: v. Preterite él/ella/usted conjugation of ir
+    predicando: v. Present participle of predicar. to preach, to proclaim
     encarcelado: adv.Past participle of encarcelar. to imprison, to jail
     cumplido: v. Past participle of cumplir. to achieve, to fulfill
     enderezad: v. Affirmative imperative vosotros. straighten
@@ -104,4 +145,45 @@
     creed: v. Affirmative imperative vosotros conjugation of creer. to believe
   Friday_review:
     note:
-      1: ''
+      1:14 grammar:
+      - gerund_function: The gerund 'predicando' connects the two actions semantically,
+          indicating simultaneity rather than a simple sequence. It describes *how*
+          the main action was performed.
+    alternative_conjunction:
+    - alternative_structure: Jesús fue a Galilea y predicó el evangelio...
+    - nuance_change: Using 'y' would make the two actions (going and preaching) separate
+        events of equal weight, rather than one describing the manner of the other.
+    - Gerund vs. Progressive Tense:
+      - similarity:
+          concept: Both the gerund and progressive tense involve the gerund form of
+            a verb (ending in -ando for -ar verbs or -iendo for -er/-ir verbs).
+      - difference:
+          concept: Function
+          description: The core difference is in grammatical function. The gerund
+            (*gerundio* in Spanish) can function as a participle describing another
+            verb, while a progressive tense is a compound verb that describes an action
+            in progress.
+      - spanish_gerund:
+          term: Gerundio
+          form: Ending in -ando or -iendo (e.g., *predicando*).
+          function: Used adverbially to modify the main verb. It describes a secondary,
+            simultaneous action or the manner of the main action, but it is not a
+            complete verb by itself.
+          example:
+            text: Jesús fue a Galilea *predicando*.
+            analysis:
+            - verb: fue (went)
+            - gerund: predicando (preaching) modifies 'fue' by explaining *how* Jesus
+                went.
+      - spanish_progressive_tense:
+          term: Tiempos progresivos
+          form: Composed of the auxiliary verb *estar* conjugated for tense, followed
+            by the gerund.
+          function: Expresses an action that is currently in progress at a specific
+            point in time.
+          example:
+            text: Jesús *estaba predicando*.
+            analysis:
+            - auxiliary_verb: estaba (was)
+            - gerund: predicando (preaching)
+            - meaning: Jesus was in the process of preaching.

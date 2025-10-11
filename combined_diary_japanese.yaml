@@ -42,19 +42,20 @@
     '1:11':
     - すると、「あなたはわたしの愛する子、わたしの心に適う者」という声が、天から聞こえた。
   vocabulary:
-    そのころ: exp.,n. その頃. at that time, in those days, at that moment, then
-    川: かわ (n) (1) river; stream; (suf) (2) River; the ... river; (P)
-    洗礼: n. [バプテスマ] せいれい
-    受けられた: v. 受ける うける；受けられる Potential Or Passive Form; 受けられた Plain Past
-    裂けて: v. 裂く く；裂ける Potential Form; 裂けて て・で Form
-    降って: iv. 降る/下る くだる。to descend, to go down, to come down | 降る ふる to fall (of rain,
-      snow...), to come down
-    御覧になる: ごらんになる (sK) (exp,v5r) (1) (hon) to see; to look; to watch; (aux-v,v5r)
-      (2) (hon) to try to ...
-    すると: conj. thereupon, hereupon
-    心に叶う: 心に適う こころにかなう (exp,v5u) to be pleased with; to be to one's liking.
-    適う: v. かなう 叶う。to come true, to be realized, to be fulfilled.
-    聞こえる: きこえる (v1,vi) (1) to be heard; to be audible; to reach one's ears; ...
+    そのころ: exp.,n. その頃 (そのころ). at that time, in those days, at that moment, then
+    川: n. 川 (かわ). river, stream
+    洗礼: 'n. 洗礼 (せいれい). baptism. (Synonym: バプテスマ)'
+    受けられた: v. 受ける (うける). Plain past form of the honorific/passive/potential form 受けられる;
+      to receive, to get
+    裂けて: v. 裂ける (さける). て-form. Potential form of 裂く (さく); to tear, to split, to crack
+    降って: v. 降る (ふる). て-form. (1) to fall (of rain, snow); (2) to come down, to descend.
+      (Also related to 下る/くだる)
+    御覧になる: v. 御覧になる (ごらんになる). (hon) (1) to see, to look, to watch; (2) (aux) to try
+      to...
+    すると: conj. すると. thereupon, hereupon
+    心に叶う: exp.,v. 心に適う (こころにかなう). to be pleased with, to be to one's liking
+    適う: v. 適う (かなう). to come true, to be realized, to be fulfilled
+    聞こえる: v. 聞こえる (きこえる). (1) to be heard, to be audible; (2) to reach one's ears
 - date: '2025-10-08'
   weekday: Wednesday
   book: マルコの福音書
@@ -70,16 +71,15 @@
     '1:18':
     - 二人はすぐに網を捨てて従った。
   vocabulary:
-    湖:
-      1: "こ\t(n) lake (in place names) (suf)"
-      2: みずうみ (n) lake
-    ほとり: "n. 畔/辺/辺り\tほとり\t(n) (uk) side (esp. of a water body); edge; bank; shore"
-    歩いて: あるいて (v) て/で form of 歩く あるく to walk
-    おられた: 居る おる おられる Potential Or Passive Form おられた Plain Past
-    網: 網 n. net, web
-    漁師: ' りょうし fisherman (n)'
-    ついて: 着く つく ついて て・で Form to arrive at, to reach (v5k,vi) to sit on, to sit at (e.g.
-      the table) (v5k,vi)
+    湖: n. 湖 (みずうみ). (1) lake; (2) (in place names, suf) こ
+    ほとり: n. 畔/辺/辺り (ほとり). side (esp. of a water body); edge; bank; shore
+    歩いて: v. 歩く (あるく). て-form. to walk
+    おられた: v. 居る (おる). Plain Past of the honorific/potential form おられる. to be/exist
+      (used respectfully)
+    網: n. 網 (あみ). net, web
+    漁師: n. 漁師 (りょうし). fisherman
+    ついて: v. 着く (つく). て-form. (1) to arrive at, to reach; (2) to sit on, to sit at
+      (e.g. the table)
   Friday_review:
     note:
     - 歩いておられると: null
@@ -130,14 +130,13 @@
     - すぐに彼らをお呼びになった。
     - 'この二人も父ゼベダイを雇い人たちと一緒に舟に残して、イエスの後について行った。 '
   vocabulary:
-    進んで: 進む すすむ 進んで て・で Form to advance, to go forward (v5m,vi)...
-    舟: 舟 ふね n. boat, ship
-    網: 網 あみ n. net
-    手入れ: 手入れ ていれ n. maintenance, care, looking after, servicing
-    雇い人: 雇い人 やとやと n. hired person, employee, servant
-    残して: 残す のこす 残して て・で Form to leave (behind, over), to bequeath (v5s,vt)
-    後: あと (n-adv,n) after, later, afterwards; behind; rear; back; later on; since
-      then; remainder
-    について: に就いて に就いて に就いて (exp) about, concerning, regarding; in regard to; as to;
-      on (e.g. a topic); on (e.g. a subject)
-    行った: 行く いく 行った Plain Past of 行く いく to go (v5k,vi)
+    進んで: v. 進む (すすむ). て-form. to advance, to go forward
+    舟: n. 舟 (ふね). boat, ship
+    網: n. 網 (あみ). net
+    手入れ: n. 手入れ (ていれ). maintenance, care, looking after, servicing
+    雇い人: n. 雇い人 (やといにん). hired person, employee, servant
+    残して: v. 残す (のこす). て-form. to leave (behind, over), to bequeath
+    後: n., adv. 後 (あと). (1) after, later, afterwards; (2) behind, rear, back; (3)
+      remainder
+    について: exp. に就いて (について). about, concerning, regarding; in regard to; as to
+    行った: v. 行く (いく). Plain past form. to go

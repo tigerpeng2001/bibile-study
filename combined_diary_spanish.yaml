@@ -15,15 +15,15 @@
     - '"Preparad el camino del Señor.'
     - ¡Enderezad sus sendas!"»
   vocabulary:
-    camino: n. road, path, track, journey
-    cual: pron. (relative) which/who. adv. as
-    delante: adv. (in a forward position)
-    envió: v. Preterite él/ella/usted enviar. send
-    enderezad: v. Affirmative imperative vosotros. straighten
+    camino: n. camino. road, path, track, journey
+    cual: pron. cual. (relative) which/who. adv. as
+    delante: adv. delante. (in a forward position)
+    envió: v. enviar. Preterite él/ella/usted conjugation. to send
+    enderezad: v. enderezar. Affirmative imperative vosotros conjugation. to straighten
     faz: n. la faz. face
-    mensajero: n. messenger
-    profeta: n. el profeta. f <-> ph
-    senda: n. path, lane, track
+    mensajero: n. mensajero. messenger
+    profeta: 'n. el profeta. prophet. (Note: f <-> ph)'
+    senda: n. senda. path, lane, track
   Friday_review:
     note:
       1: Principio <=> Comienzo
@@ -43,16 +43,17 @@
     - Acudía a él toda la provincia de Judea y los de Jerusalén, y eran todos bautizados
       por él en el río Jordán, confesando sus pecados.
   vocabulary:
-    acudía: v. Imperfect él/ella/usted acudir. come, go, resort to
-    arrepentimiento: n. repentance
-    bautismo: n. baptism
-    bautizaba: v. Imperfect él/ella/usted bautizar. baptize
-    confesando: v. Gerund confesar. confessing
-    pecados: n. sins
-    perdón: n. forgiveness
-    predicaba: v. Imperfect él/ella/usted predicar. preach
-    provincia: n. province
-    río: n. river
+    acudía: v. acudir. Imperfect él/ella/usted conjugation. come, go, resort to
+    arrepentimiento: n. arrepentimiento. repentance
+    bautismo: n. bautismo. baptism
+    bautizaba: v. bautizar. Imperfect él/ella/usted conjugation. baptize
+    confesando: v. confesar. Gerund. confessing
+    gente: n. la gente. people. (From Friday_review note)
+    pecados: n. pecados. sins
+    perdón: n. perdón. forgiveness
+    predicaba: v. predicar. Imperfect él/ella/usted conjugation. preach
+    provincia: n. provincia. province
+    río: n. río. river
   Friday_review:
     note:
       1: 'gente: n. la gente. people. ''Toda la gente de la región de Judea y de la
@@ -70,11 +71,11 @@
     - Era tentado por Satanás y estaba con las fieras,
     - y los ángeles lo servían.
   vocabulary:
-    impulsó: v. Preterite él/ella/usted conjugation of impulsar. to propel, to drive,
+    impulsó: v. impulsar. Preterite él/ella/usted conjugation. to propel, to drive,
       to motivate, to promote
-    estuvo: v. Preterite él/ella/usted conjugation of estar
-    allí: adv. there
-    tentado: v. Past participle of tentar. to tempt, to feel, to try
+    estuvo: v. estar. Preterite él/ella/usted conjugation. to be
+    allí: adv. allí. there
+    tentado: adj. tentado. Past participle of tentar. tempted, tried
     fiera: n. la fiera. wild beast, wild animal
   Friday_review:
     note:
@@ -132,17 +133,16 @@
     - 'Decía: «El tiempo se ha cumplido y el reino de Dios se ha acercado.'
     - ¡Arrepentíos y creed en el evangelio!»
   vocabulary:
-    después: adv. after, later, afterwards, then
-    fue:
-      1: v. Preterite él/ella/usted conjugation of ser
-      2: v. Preterite él/ella/usted conjugation of ir
-    predicando: v. Present participle of predicar. to preach, to proclaim
-    encarcelado: adv.Past participle of encarcelar. to imprison, to jail
-    cumplido: v. Past participle of cumplir. to achieve, to fulfill
-    enderezad: v. Affirmative imperative vosotros. straighten
-    acercado: v. Past participle of acercar. to move closer
-    arrepentíos: v. Affirmative imperative vos conjugation of arrepentirse. to repent
-    creed: v. Affirmative imperative vosotros conjugation of creer. to believe
+    vocabulary: null
+    fue: v. ser/ir. Preterite él/ella/usted conjugation. (1) was (ser); (2) went (ir)
+    predicando: v. predicar. Gerund/Present participle. preaching, proclaiming
+    encarcelado: adj. encarcelado. Past participle of encarcelar. imprisoned, jailed
+    cumplido: adj. cumplido. Past participle of cumplir. achieved, fulfilled
+    enderezad: v. enderezar. Affirmative imperative vosotros conjugation. straighten
+    acercado: adj. acercado. Past participle of acercar. moved closer
+    arrepentíos: v. arrepentirse. Affirmative imperative vos conjugation (used in
+      some regions) or reflexive command form. repent
+    creed: v. creer. Affirmative imperative vosotros conjugation. believe
   Friday_review:
     note:
       1:14 grammar:
@@ -187,3 +187,27 @@
             - auxiliary_verb: estaba (was)
             - gerund: predicando (preaching)
             - meaning: Jesus was in the process of preaching.
+- date: '2025-10-13'
+  weekday: Monday
+  book: Mark
+  version: Reina Valera 1995 (RVR95)
+  target_language: Spanish
+  verses:
+    '1:21':
+    - Entraron en Capernaúm, y el sábado entró Jesús en la sinagoga y comenzó a enseñar.
+    '1:22':
+    - 'Y se admiraban de su doctrina, porque les enseñaba como quien tiene autoridad,
+      y no como los escribas. '
+  vocabulary:
+    admiraban: v. admirar. Preterite ellos/ellas/ustedes conjugation. to admire, to
+      be amazed
+    autoridad: n. la autoridad. authority, power, jurisdiction
+    doctrina: n. la doctrina. doctrine, teaching
+    entraron: v. entrar. Preterite ellos/ellas/ustedes conjugation. to enter, to go
+      in
+    entró: v. entrar. Preterite él/ella/usted conjugation. to enter, to go in
+    enseñaba: v. enseñar. Imperfect él/ella/usted conjugation. to teach, to show
+    enseñar: v. enseñar. to teach, to show
+    escriba: n. el escriba. scribe, scholar
+  Friday_review:
+    note: null

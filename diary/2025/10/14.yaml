@@ -1,0 +1,31 @@
+date: "2025-10-14"
+weekday: "Tuesday"
+book: "Mark"
+version: "Reina Valera 1995 (RVR95)"
+target_language: "Spanish"
+verses:
+  "1:23":
+    - "Pero había en la sinagoga de ellos un hombre con espíritu impuro, que gritó: "
+  "1:24":
+    - "—¡Ah! ¿Qué tienes con nosotros, Jesús nazareno?"
+    - "¿Has venido a destruirnos?"
+    - " Sé quién eres: el Santo de Dios."
+    - "¡Arrepentíos y creed en el evangelio!»"
+  "1:25":
+    - "Entonces Jesús lo reprendió, diciendo: —¡Cállate y sal de él! "
+  "1:26":
+    - "Y el espíritu impuro, sacudiéndolo con violencia y dando un alarido, salió de él."
+vocabulary:
+  vocabulary:
+  había: "v. haber. Imperfect él/ella/usted conjugation. there was/were"
+  impuro: "adj. impuro/a. impure, unclean"
+  gritó: "v. gritar. Preterite él/ella/usted conjugation. to shout, to scream"
+  reprendió: "v. reprender. Preterite él/ella/usted conjugation. to reprimand, to scold"
+  cállate: "v. callar. Imperative tú form with pronoun. be quiet, shut up"
+  sal: "v. salir. affirmative Imperative tú form. to go out, to leave"
+  sacudiéndolo: "v. sacudir. Gerund with pronoun. shaking him"
+  dando: "v. dar. Gerund. giving"
+  alarido: "n. el alarido. scream, shout"
+  salió: "v. salir. Preterite él/ella/usted conjugation. to go out, to leave"
+Friday_review:
+  note: 

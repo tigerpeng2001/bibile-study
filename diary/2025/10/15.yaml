@@ -1,0 +1,42 @@
+date: "2025-10-15"
+weekday: "Wednesday"
+book: "マルコの福音書"
+version: "新共同訳"
+target_language: "Japanese"
+verses:
+  "1:27":
+    - "人々は皆驚いて、論じ合った。"
+    - "「これはいったいどういうことなのだ。"
+    - "権威ある新しい教えだ。"
+    - "この人が汚れた霊に命じると、その言うことを聴く。」 "
+  "1:28":
+    - "イエスの評判は、たちまちガリラヤ地方の隅々にまで広まった。"
+vocabulary:
+  論じ合った: "v. ろんじあう. Preterite 彼/彼女/それ conjugation. to discuss, to argue"
+  いったい: "adv. いったい (一体). what on earth, what in the world"
+  どういう: "adj. どういう. what kind of, what sort of"
+  権威: "n. けんい. authority, power, influence"
+  汚れた: "adj. よごれた (汚れた). dirty, unclean"
+  命じる: "v. めいじる. to order, to command"
+  聴く: "v. きく. to listen, to hear"
+  評判: "n. ひょうばん. reputation, fame"
+  たちまち: "adv. たちまち (立ち待ち). at once, immediately"
+  地方: "n. ちほう. region, area"
+  隅々: "n. すみずみ. every corner, all parts"
+  広まった: "v. ひろまる. Preterite 彼/彼女/それ conjugation. to spread, to extend"
+Friday_review:
+  note:
+  いったい:
+    Adverbial_Usage:
+      - Spelling: "いったい (Hiragana)"
+        Meaning: "In the world; Really; Generally used as an intensifier in rhetorical questions or when expressing astonishment."
+        Example_Context: "これはいったいどういうことなのだ (What on earth is this?)"
+        Frequency: "Most common in modern general writing and speech for this meaning."
+    Noun_or_Adjectival_Usage:
+      - Spelling: "一体 (Kanji)"
+        Meaning: "One body; One unit; The whole; Unity."
+        Example_Context: "国全体で一体となる (The entire country becomes one unit.)"
+        Frequency: "Common when referring to physical or conceptual unity; less common for the 'what on earth' adverbial usage."
+    Etymology_Note:
+      - Origin: "Literally means 'one body' (一 - one, 体 - body/form)."
+      - Modern_Trend: "Hiragana (いったい) is preferred for the adverbial function to improve readability and distinguish it from the noun meaning."

@@ -1,21 +1,32 @@
-date: "2025-10-09"
+date: "2025-10-16"
 weekday: "Thursday"
 book: "マルコの福音書"
 version: "新共同訳"
 target_language: "Japanese"
 verses:
-  "1:19":
-    - "また、少し進んで、ゼベダイの子ヤコブとその兄弟ヨハネが、舟の中で網の手入れをしているのを御覧になると、"
-  "1:20":
-    - "すぐに彼らをお呼びになった。"
-    - "この二人も父ゼベダイを雇い人たちと一緒に舟に残して、イエスの後について行った。 "
+  "1:29":
+    - "すぐに、一行は会堂を出て、シモンとアンデレの家に行った。"
+    - "ヤコブとヨハネも一緒であった。"
+  "1:30":
+    - "シモンのしゅうとめが熱を出して寝ていたので、人々は早速、彼女のことをイエスに話した。"
+  "1:31":
+    - "イエスがそばに行き、手を取って起こされると、熱は去り、彼女は一同をもてなした。"
 vocabulary:
-  進んで: "v. 進む (すすむ). て-form. to advance, to go forward"
-  舟: "n. 舟 (ふね). boat, ship"
-  網: "n. 網 (あみ). net"
-  手入れ: "n. 手入れ (ていれ). maintenance, care, looking after, servicing"
-  雇い人: "n. 雇い人 (やといにん). hired person, employee, servant"
-  残して: "v. 残す (のこす). て-form. to leave (behind, over), to bequeath"
-  後: "n., adv. 後 (あと). (1) after, later, afterwards; (2) behind, rear, back; (3) remainder"
-  について: "exp. に就いて (について). about, concerning, regarding; in regard to; as to"
-  行った: "v. 行く (いく). Plain past form. to go"
+  いっこう: "n. 一行 (いっこう). party, group of people traveling together"
+  会堂: "n. 会堂 (かいどう). synagogue"
+  出て: "v. 出る (でる). て-form. to exit, to leave"
+  しゅうとめ: "n. しゅうとめ (しゅうとめ). mother-in-law"
+  熱: "n. 熱 (ねつ). fever, temperature"
+  熱を出して: "exp. 熱を出す (ねつをだす). to have a fever"
+  早速: "adv. さっそく. immediately, at once, right away"
+  そば: "n. そば (そば). beside, near, close to someone/something (physical or figurative)"
+  手を取って: "exp. 手を取る (てをとる). to take (someone's) hand"
+  起こされる: "v. 起こす (おこす). Passive form. to wake (someone) up, to raise (someone) up"
+  去り: "v. 去る (さる). ます-stem. to leave, to go away"
+  一同: "n. 一同 (いちどう). all present, everyone"
+  もてなした: "v. もてなす. Preterite 彼/彼女/それ conjugation. to entertain, to host, to treat (someone)"
+Friday_review:
+  note:
+    "と in 1:31":
+      - function: "Conjunctional Particle"
+      - meaning: "In this context, as soon as / immediately when"

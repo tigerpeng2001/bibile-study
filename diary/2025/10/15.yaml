@@ -16,7 +16,7 @@ vocabulary:
   いったい: "adv. いったい (一体). what on earth, what in the world"
   どういう: "adj. どういう. what kind of, what sort of"
   権威: "n. けんい. authority, power, influence"
-  汚れた: "adj. よごれた (汚れた). dirty, unclean"
+  汚れた: "(1) adj. けがれた (汚れた). violated, corrupted, polluted. (2) adj. よごれた (汚れた). dirty, unclean. both are past adjective form. "
   命じる: "v. めいじる. to order, to command"
   聴く: "v. きく. to listen, to hear"
   評判: "n. ひょうばん. reputation, fame"
@@ -40,3 +40,13 @@ Friday_review:
     Etymology_Note:
       - Origin: "Literally means 'one body' (一 - one, 体 - body/form)."
       - Modern_Trend: "Hiragana (いったい) is preferred for the adverbial function to improve readability and distinguish it from the noun meaning."
+  なのだ: 
+    Explanation:
+      - "The phrase 'なのだ' is used to provide explanation or emphasis in a statement. It combines the copula 'な' (a contraction of 'である') with the explanatory particle 'の' and the declarative particle 'だ'."
+      - "It is often used in spoken and written Japanese to clarify or assert information, making the statement more definitive."
+    Example:
+      - "これはいったいどういうことなのだ (What on earth is this?)"
+      - "In this example, 'なのだ' emphasizes the speaker's astonishment and desire for an explanation about the situation."
+    断定助動詞:
+      nekocrow.com: "It functions as a 断定助動詞 (assertive auxiliary verb), indicating that the speaker is making a definitive statement or seeking clarification." 
+      JapanDict: "it is assuredly that ..., can say with confidence that ... (aux)"

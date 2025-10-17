@@ -9,13 +9,18 @@ verses:
   "1:22":
     - "Y se admiraban de su doctrina, porque les enseñaba como quien tiene autoridad, y no como los escribas. "
 vocabulary:
-  admiraban: "v. admirar. Preterite ellos/ellas/ustedes conjugation. to admire, to be amazed"
-  autoridad: "n. la autoridad. authority, power, jurisdiction"
-  doctrina: "n. la doctrina. doctrine, teaching"
   entraron: "v. entrar. Preterite ellos/ellas/ustedes conjugation. to enter, to go in"
   entró: "v. entrar. Preterite él/ella/usted conjugation. to enter, to go in"
-  enseñaba: "v. enseñar. Imperfect él/ella/usted conjugation. to teach, to show"
   enseñar: "v. enseñar. to teach, to show"
+  admiraban: "v. admirar. Preterite ellos/ellas/ustedes conjugation. to admire, to be amazed"
+  doctrina: "n. la doctrina. doctrine, teaching"
+  enseñaba: "v. enseñar. Imperfect él/ella/usted conjugation. to teach, to show"
+  autoridad: "n. la autoridad. authority, power, jurisdiction"
   escriba: "n. el escriba. scribe, scholar"
 Friday_review:
   note: 
+    "SV order in 'el sábado entró Jesús en la sinagoga'":
+      - reason: "Spanish Flexibility"
+        detail: "Spanish frequently uses Verb-Subject (VS) order, especially with intransitive verbs like 'entrar' (to enter)."
+      - reason: "Complement Preceding Verb"
+        detail: "When the clause begins with a circumstantial complement ('el sábado' - time), the subject ('Jesús') often shifts to the post-verbal position for natural sentence flow and emphasis on the event."

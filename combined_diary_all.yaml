@@ -329,28 +329,6 @@
       remainder
     について: exp. に就いて (について). about, concerning, regarding; in regard to; as to
     行った: v. 行く (いく). Plain past form. to go
-- date: '2025-10-09'
-  weekday: Thursday
-  book: マルコの福音書
-  version: 新共同訳
-  target_language: Japanese
-  verses:
-    '1:19':
-    - また、少し進んで、ゼベダイの子ヤコブとその兄弟ヨハネが、舟の中で網の手入れをしているのを御覧になると、
-    '1:20':
-    - すぐに彼らをお呼びになった。
-    - 'この二人も父ゼベダイを雇い人たちと一緒に舟に残して、イエスの後について行った。 '
-  vocabulary:
-    進んで: v. 進む (すすむ). て-form. to advance, to go forward
-    舟: n. 舟 (ふね). boat, ship
-    網: n. 網 (あみ). net
-    手入れ: n. 手入れ (ていれ). maintenance, care, looking after, servicing
-    雇い人: n. 雇い人 (やといにん). hired person, employee, servant
-    残して: v. 残す (のこす). て-form. to leave (behind, over), to bequeath
-    後: n., adv. 後 (あと). (1) after, later, afterwards; (2) behind, rear, back; (3)
-      remainder
-    について: exp. に就いて (について). about, concerning, regarding; in regard to; as to
-    行った: v. 行く (いく). Plain past form. to go
 - date: '2025-10-13'
   weekday: Monday
   book: Mark
@@ -363,18 +341,26 @@
     - 'Y se admiraban de su doctrina, porque les enseñaba como quien tiene autoridad,
       y no como los escribas. '
   vocabulary:
-    admiraban: v. admirar. Preterite ellos/ellas/ustedes conjugation. to admire, to
-      be amazed
-    autoridad: n. la autoridad. authority, power, jurisdiction
-    doctrina: n. la doctrina. doctrine, teaching
     entraron: v. entrar. Preterite ellos/ellas/ustedes conjugation. to enter, to go
       in
     entró: v. entrar. Preterite él/ella/usted conjugation. to enter, to go in
-    enseñaba: v. enseñar. Imperfect él/ella/usted conjugation. to teach, to show
     enseñar: v. enseñar. to teach, to show
+    admiraban: v. admirar. Preterite ellos/ellas/ustedes conjugation. to admire, to
+      be amazed
+    doctrina: n. la doctrina. doctrine, teaching
+    enseñaba: v. enseñar. Imperfect él/ella/usted conjugation. to teach, to show
+    autoridad: n. la autoridad. authority, power, jurisdiction
     escriba: n. el escriba. scribe, scholar
   Friday_review:
-    note: null
+    note:
+      SV order in 'el sábado entró Jesús en la sinagoga':
+      - reason: Spanish Flexibility
+        detail: Spanish frequently uses Verb-Subject (VS) order, especially with intransitive
+          verbs like 'entrar' (to enter).
+      - reason: Complement Preceding Verb
+        detail: When the clause begins with a circumstantial complement ('el sábado'
+          - time), the subject ('Jesús') often shifts to the post-verbal position
+          for natural sentence flow and emphasis on the event.
 - date: '2025-10-14'
   weekday: Tuesday
   book: Mark
@@ -387,7 +373,6 @@
     - —¡Ah! ¿Qué tienes con nosotros, Jesús nazareno?
     - ¿Has venido a destruirnos?
     - ' Sé quién eres: el Santo de Dios.'
-    - ¡Arrepentíos y creed en el evangelio!»
     '1:25':
     - 'Entonces Jesús lo reprendió, diciendo: —¡Cállate y sal de él! '
     '1:26':
@@ -398,6 +383,7 @@
     había: v. haber. Imperfect él/ella/usted conjugation. there was/were
     impuro: adj. impuro/a. impure, unclean
     gritó: v. gritar. Preterite él/ella/usted conjugation. to shout, to scream
+    sé: v. saber. Present yo form. to know
     reprendió: v. reprender. Preterite él/ella/usted conjugation. to reprimand, to
       scold
     cállate: v. callar. Imperative tú form with pronoun. be quiet, shut up
@@ -407,7 +393,18 @@
     alarido: n. el alarido. scream, shout
     salió: v. salir. Preterite él/ella/usted conjugation. to go out, to leave
   Friday_review:
-    note: null
+    note:
+      la sinagoga de ellos:
+      - explanation: The phrase 'la sinagoga de ellos' translates to 'their synagogue'
+          in English. In Spanish, possession can be expressed using the prepositional
+          phrase 'de + pronoun/noun' instead of a possessive adjective. Here, 'de
+          ellos' indicates that the synagogue belongs to 'them' (ellos). This construction
+          is often used for emphasis or clarity, especially when the possessor is
+          not the subject of the sentence.
+      - comparison: In English, we would typically say 'their synagogue' using the
+          possessive adjective 'their'. However, in Spanish, both 'su sinagoga' and
+          'la sinagoga de ellos' are correct, with the latter providing additional
+          emphasis on the possessor.
 - date: '2025-10-15'
   weekday: Wednesday
   book: マルコの福音書
@@ -426,7 +423,8 @@
     いったい: adv. いったい (一体). what on earth, what in the world
     どういう: adj. どういう. what kind of, what sort of
     権威: n. けんい. authority, power, influence
-    汚れた: adj. よごれた (汚れた). dirty, unclean
+    汚れた: '(1) adj. けがれた (汚れた). violated, corrupted, polluted. (2) adj. よごれた (汚れた).
+      dirty, unclean. both are past adjective form. '
     命じる: v. めいじる. to order, to command
     聴く: v. きく. to listen, to hear
     評判: n. ひょうばん. reputation, fame
@@ -453,3 +451,51 @@
       - Origin: Literally means 'one body' (一 - one, 体 - body/form).
       - Modern_Trend: Hiragana (いったい) is preferred for the adverbial function to improve
           readability and distinguish it from the noun meaning.
+    なのだ:
+      Explanation:
+      - The phrase 'なのだ' is used to provide explanation or emphasis in a statement.
+        It combines the copula 'な' (a contraction of 'である') with the explanatory particle
+        'の' and the declarative particle 'だ'.
+      - It is often used in spoken and written Japanese to clarify or assert information,
+        making the statement more definitive.
+      Example:
+      - これはいったいどういうことなのだ (What on earth is this?)
+      - In this example, 'なのだ' emphasizes the speaker's astonishment and desire for
+        an explanation about the situation.
+      断定助動詞:
+        nekocrow.com: It functions as a 断定助動詞 (assertive auxiliary verb), indicating
+          that the speaker is making a definitive statement or seeking clarification.
+        JapanDict: it is assuredly that ..., can say with confidence that ... (aux)
+- date: '2025-10-16'
+  weekday: Thursday
+  book: マルコの福音書
+  version: 新共同訳
+  target_language: Japanese
+  verses:
+    '1:29':
+    - すぐに、一行は会堂を出て、シモンとアンデレの家に行った。
+    - ヤコブとヨハネも一緒であった。
+    '1:30':
+    - シモンのしゅうとめが熱を出して寝ていたので、人々は早速、彼女のことをイエスに話した。
+    '1:31':
+    - イエスがそばに行き、手を取って起こされると、熱は去り、彼女は一同をもてなした。
+  vocabulary:
+    いっこう: n. 一行 (いっこう). party, group of people traveling together
+    会堂: n. 会堂 (かいどう). synagogue
+    出て: v. 出る (でる). て-form. to exit, to leave
+    しゅうとめ: n. しゅうとめ (しゅうとめ). mother-in-law
+    熱: n. 熱 (ねつ). fever, temperature
+    熱を出して: exp. 熱を出す (ねつをだす). to have a fever
+    早速: adv. さっそく. immediately, at once, right away
+    そば: n. そば (そば). beside, near, close to someone/something (physical or figurative)
+    手を取って: exp. 手を取る (てをとる). to take (someone's) hand
+    起こされる: v. 起こす (おこす). Passive form. to wake (someone) up, to raise (someone) up
+    去り: v. 去る (さる). ます-stem. to leave, to go away
+    一同: n. 一同 (いちどう). all present, everyone
+    もてなした: v. もてなす. Preterite 彼/彼女/それ conjugation. to entertain, to host, to treat
+      (someone)
+  Friday_review:
+    note:
+      と in 1:31:
+      - function: Conjunctional Particle
+      - meaning: In this context, as soon as / immediately when

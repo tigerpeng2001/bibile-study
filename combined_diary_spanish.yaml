@@ -199,18 +199,26 @@
     - 'Y se admiraban de su doctrina, porque les enseñaba como quien tiene autoridad,
       y no como los escribas. '
   vocabulary:
-    admiraban: v. admirar. Preterite ellos/ellas/ustedes conjugation. to admire, to
-      be amazed
-    autoridad: n. la autoridad. authority, power, jurisdiction
-    doctrina: n. la doctrina. doctrine, teaching
     entraron: v. entrar. Preterite ellos/ellas/ustedes conjugation. to enter, to go
       in
     entró: v. entrar. Preterite él/ella/usted conjugation. to enter, to go in
-    enseñaba: v. enseñar. Imperfect él/ella/usted conjugation. to teach, to show
     enseñar: v. enseñar. to teach, to show
+    admiraban: v. admirar. Preterite ellos/ellas/ustedes conjugation. to admire, to
+      be amazed
+    doctrina: n. la doctrina. doctrine, teaching
+    enseñaba: v. enseñar. Imperfect él/ella/usted conjugation. to teach, to show
+    autoridad: n. la autoridad. authority, power, jurisdiction
     escriba: n. el escriba. scribe, scholar
   Friday_review:
-    note: null
+    note:
+      SV order in 'el sábado entró Jesús en la sinagoga':
+      - reason: Spanish Flexibility
+        detail: Spanish frequently uses Verb-Subject (VS) order, especially with intransitive
+          verbs like 'entrar' (to enter).
+      - reason: Complement Preceding Verb
+        detail: When the clause begins with a circumstantial complement ('el sábado'
+          - time), the subject ('Jesús') often shifts to the post-verbal position
+          for natural sentence flow and emphasis on the event.
 - date: '2025-10-14'
   weekday: Tuesday
   book: Mark
@@ -223,7 +231,6 @@
     - —¡Ah! ¿Qué tienes con nosotros, Jesús nazareno?
     - ¿Has venido a destruirnos?
     - ' Sé quién eres: el Santo de Dios.'
-    - ¡Arrepentíos y creed en el evangelio!»
     '1:25':
     - 'Entonces Jesús lo reprendió, diciendo: —¡Cállate y sal de él! '
     '1:26':
@@ -234,6 +241,7 @@
     había: v. haber. Imperfect él/ella/usted conjugation. there was/were
     impuro: adj. impuro/a. impure, unclean
     gritó: v. gritar. Preterite él/ella/usted conjugation. to shout, to scream
+    sé: v. saber. Present yo form. to know
     reprendió: v. reprender. Preterite él/ella/usted conjugation. to reprimand, to
       scold
     cállate: v. callar. Imperative tú form with pronoun. be quiet, shut up
@@ -243,4 +251,15 @@
     alarido: n. el alarido. scream, shout
     salió: v. salir. Preterite él/ella/usted conjugation. to go out, to leave
   Friday_review:
-    note: null
+    note:
+      la sinagoga de ellos:
+      - explanation: The phrase 'la sinagoga de ellos' translates to 'their synagogue'
+          in English. In Spanish, possession can be expressed using the prepositional
+          phrase 'de + pronoun/noun' instead of a possessive adjective. Here, 'de
+          ellos' indicates that the synagogue belongs to 'them' (ellos). This construction
+          is often used for emphasis or clarity, especially when the possessor is
+          not the subject of the sentence.
+      - comparison: In English, we would typically say 'their synagogue' using the
+          possessive adjective 'their'. However, in Spanish, both 'su sinagoga' and
+          'la sinagoga de ellos' are correct, with the latter providing additional
+          emphasis on the possessor.

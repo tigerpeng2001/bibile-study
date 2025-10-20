@@ -263,3 +263,45 @@
           possessive adjective 'their'. However, in Spanish, both 'su sinagoga' and
           'la sinagoga de ellos' are correct, with the latter providing additional
           emphasis on the possessor.
+- date: '2025-10-20'
+  weekday: Monday
+  book: Mark
+  version: Reina Valera 1995 (RVR95)
+  target_language: Spanish
+  verses:
+    '1:32':
+    - Cuando llegó la noche, luego que el sol se puso, le llevaron a todos los enfermos
+      y endemoniados.
+    '1:33':
+    - Toda la ciudad se agolpó a la puerta.
+    '1:34':
+    - Y sanó a muchos que padecían de diversas enfermedades, y echó fuera muchos demonios;
+    - y no dejaba hablar a los demonios, porque lo conocían.
+  vocabulary:
+    llegó: v. llegar. Preterite él/ella/usted conjugation. to arrive, to come
+    luego que: conj. luego que. as soon as, once
+    puso: v. poner. Preterite él/ella/usted conjugation. to put, to place
+    llevaron: v. llevar. Preterite ellos/ellas/ustedes conjugation. to take, to carry
+    enfermos: adj. enfermo. sick, ill
+    endemoniados: adj. endemoniado. possessed by demons
+    agolpó: v. agolpar. Preterite él/ella/usted conjugation. to crowd, to gather
+    sanó: v. sanar. Preterite él/ella/usted conjugation. to heal, to cure
+    padecían: v. padecer. Imperfect ellos/ellas/ustedes conjugation. to suffer from,
+      to endure
+    diversas: adj. diverso. diverse, various
+    enfermedades: n. la enfermedad. illness, disease
+    echó: v. echar. Preterite él/ella/usted conjugation. to throw out, to cast out
+    fuera: v. ser/ir. Imperfect subjunctive él/ella/usted conjugation. to be/to go
+    dejaba: v. dejar. Imperfect él/ella/usted conjugation. to let, to allow
+    conocían: v. conocer. Imperfect ellos/ellas/ustedes conjugation. to know, to be
+      acquainted with
+  grammar:
+    le llevaron a todos los enfermos y endemoniados:
+    - le: The indirect object pronoun 'le' is used here to indicate that 'he' (Jesus)
+        is the recipient of the action of bringing all the sick and demon-possessed
+        individuals to him.
+      a: The preposition 'a' is used before 'todos los enfermos y endemoniados' to
+        mark them as the direct objects of the verb 'llevaron' (they brought). In
+        Spanish, 'a' is often used before direct objects that are people or personified
+        entities.
+  Friday_review: null

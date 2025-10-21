@@ -541,3 +541,49 @@
         Spanish, 'a' is often used before direct objects that are people or personified
         entities.
   Friday_review: null
+- date: '2025-10-21'
+  weekday: Tuesday
+  book: Mark
+  version: Reina Valera 1995 (RVR95)
+  target_language: Spanish
+  verses:
+    '1:35':
+    - 'Levantándose muy de mañana, siendo aún muy oscuro, salió y se fue a un lugar
+      desierto, y allí oraba. '
+    '1:36':
+    - 'Lo buscó Simón y los que con él estaban, '
+    '1:37':
+    - 'y hallándolo, le dijeron: —Todos te buscan. '
+    '1:38':
+    - 'Él les dijo: —Vamos a los lugares vecinos para que predique también allí, porque
+      para esto he venido. '
+    '1:39':
+    - Y predicaba en las sinagogas de ellos en toda Galilea, y echaba fuera los demonios.
+  vocabulary:
+    levantándose: v. levantarse. Gerund form. to get up, to rise
+    muy de mañana: adv. muy de mañana. very early in the morning
+    siendo: v. ser. Gerund form. to be
+    aún: adv. aún. still, yet
+    oscuro: adj. oscuro. dark
+    salió: v. salir. Preterite él/ella/usted conjugation. to go out, to leave
+    desierto: adj. desierto. deserted, uninhabited
+    oraba: v. orar. Imperfect él/ella/usted conjugation. to pray
+    buscó: v. buscar. Preterite él/ella/usted conjugation. to look for, to search
+    hallándolo: v. hallar. Gerund form with direct object pronoun 'lo'. to find
+    dijeron: v. decir. Preterite ellos/ellas/ustedes conjugation. to say, to tell
+    vecinos: adj. vecino. neighboring
+    predique: v. predicar. Present subjunctive yo/él/ella/usted conjugation. to preach
+    venido: v. venir. Past participle form. to come
+    predicaba: v. predicar. Imperfect él/ella/usted conjugation. to preach
+    sinagogas: n. la sinagoga. synagogue
+    echaba: v. echar. Imperfect él/ella/usted conjugation. to throw out, to cast out
+    fuera: adv. fuera. out
+  grammar:
+    echaba fuera los demonios:
+    - echaba: The verb 'echaba' is in the imperfect tense, indicating an ongoing or
+        repeated action in the past. It describes Jesus' continuous activity of casting
+        out demons.
+      fuera: This is not a verb here but rather an adverb meaning 'out.' It complements
+        the verb 'echaba' to specify the action of casting out demons.
+  Friday_review:
+    note: null

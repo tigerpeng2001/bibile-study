@@ -1,0 +1,32 @@
+date: "2025-10-22"
+weekday: "Wednesday"
+book: "マルコの福音書"
+version: "新共同訳"
+target_language: "Japanese"
+verses:
+  "1:40":
+    - "さて、重い皮膚病を患っている人が、イエスのところに来てひざまずいて願い、"
+    - "「御心ならば、わたしを清くすることがおできになります」と言った。 "
+  "1:41":
+    - "イエスが深く憐れんで、手を差し伸べてその人に触れ、「よろしい。清くなれ」と言われると、  "
+  "1:42":
+    - "たちまち重い皮膚病は去り、その人は清くなった。 
+vocabulary:
+  さて: "adv. さて. well, now then"
+  重い: "adj. おもい. heavy, severe"
+  皮膚病: "n. ひふびょう. skin disease, leprosy"
+  患っている: "v. わずらう. Present progressive form. to suffer from, to be afflicted with"
+  ひざまずいて: "v. ひざまずく. Te-form. to kneel"
+  願い: "v. ねがう. Stem form. to wish, to request"
+  御心: "n. みこころ. God's will, heart"
+  清くする: "v. きよくする. to cleanse, to purify"
+  おできになります: "v. できる. Honorific form. to be able to do"
+  深く憐れんで: "v. あわれむ. Te-form with adverb 'deeply'. to have compassion"
+  差し伸べて: "v. さしのべる. Te-form. to stretch out (one's hand)"
+  触れ: "v. ふれる. Stem form. to touch"
+  よろしい: "adj. よろしい. good, all right"
+  清くなれ: "v. きよくなる. Imperative form. to become clean"
+  たちまち: "adv. たちまち. immediately, at once"
+  去り: "v. さる. Stem form. to leave, to go away"
+Friday_rekkview:
+  note:

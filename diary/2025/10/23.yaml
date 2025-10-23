@@ -1,0 +1,37 @@
+date: "2025-10-23"
+weekday: "Thursday"
+book: "マルコの福音書"
+version: "新共同訳"
+target_language: "Japanese"
+verses:
+  "1:43":
+    - "イエスはすぐにその人を立ち去らせようとし、厳しく注意して、"
+  "1:44":
+    - "言われた。「だれにも、何も話さないように気をつけなさい。"
+    - "ただ、行って祭司に体を見せ、モーセが定めたものを清めのために献げて、人々に証明しなさい。」"
+  "1:45":
+    - "しかし、彼はそこを立ち去ると、"
+    - "大いにこの出来事を人々に告げ、言い広め始めた。"
+    - "それで、イエスはもはや公然と町に入ることができず、町の外の人のいない所におられた。"
+    - "それでも、人々は四方からイエスのところに集まって来た。"
+vocabulary:
+  立ち去らせようとし: "v. たちさる. Volitional form. to try to make (someone) leave"
+  厳しく注意して: "v. ちゅういする. Te-form with adverb 'severely' (厳しく いかめしく). to warn, to caution"
+  話さないように気をつけなさい: "v. はなす. Negative volitional form with auxiliary verb 'to be careful'. to be careful not to speak"
+  祭司: "n. さいし. priest"
+  体を見せ: "v. からだをみせる. Stem form. to show one's body"
+  モーセが定めたもの: "n. モーセがさだめたもの. what Moses has prescribed"
+  清めのために献げて: "v. きよめのためにささげる. Te-form. to offer for purification"
+  人々に証明しなさい: "v. しょうめいする. Imperative form. to prove, to testify"
+  立ち去ると: "v. たちさる. Conditional form. to leave"
+  大いに: "adv. おおいに. greatly, much"
+  出来事: "n. できごと. event, incident"
+  告げ: "v. つげる. Stem form. to tell, to inform"
+  言い広め始めた: "v. いいひろめる. Past tense of compound verb. to start spreading (news)"
+  公然と: "adv. こうぜんと. openly, publicly"
+  入る事ができず: "v. はいる. Negative potential form. to be unable to enter"
+  人のいない所: "n. ひとのいないところ. uninhabited place"
+  四方から: "adv. しほうから. from all directions"
+  集まって来た: "v. あつまってくる. Past tense of compound verb. to gather together"
+Friday_review:
+  note:

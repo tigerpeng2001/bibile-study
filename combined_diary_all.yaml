@@ -663,3 +663,36 @@
       公然と:
       - ”と: adverbial particle ithat transforms the な-adjective 公然 (kouzen - "public/open")
           into an adverb."
+- date: '2025-10-27'
+  weekday: Monday
+  book: Mark
+  version: Reina Valera 1995 (RVR95)
+  target_language: Spanish
+  verses:
+    '2.1':
+    - '''Después de algunos días, Jesús entró otra vez en Capernaúm. Cuando se supo
+      que estaba en casa, '
+    '2.2':
+    - 'inmediatamente se juntaron muchos, de manera que ya no cabían ni aun a la puerta;
+      y les predicaba la palabra. '
+  vocabulary:
+    supo: v. saber. Preterite él/ella/usted conjugation. to know, to learn
+    juntaron: v. juntar. Preterite ellos/ellas/ustedes conjugation. to gather, to
+      bring together
+    de manera que: conj. de manera que. so that, in such a way that
+    manera: n. la manera. manner, way
+    cabían: v. caber. Imperfect ellos/ellas/ustedes conjugation. to fit
+    predicaba: v. predicar. Imperfect él/ella/usted conjugation. to preach, to proclaim
+  grammar:
+    Cuando se supo que estaba en casa:
+    - se: The pronoun 'se' is used here as a reflexive pronoun indicating that the
+        subject (the news about Jesus) is receiving the action of being known.
+      que: The conjunction 'que' introduces a subordinate clause that provides additional
+        information about what was known (that he was at home).
+    de manera que ya no cabían ni aun a la puerta:
+    - de manera que: The phrase 'de manera que' functions as a conjunction meaning
+        'so that' or 'in such a way that,' indicating the result of the previous action
+        (many people gathering).
+      ni aun: The phrase 'ni aun' means 'not even,' emphasizing the extent to which
+        they could not fit, even at the door.
+  Friday_review: null

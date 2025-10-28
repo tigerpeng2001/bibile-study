@@ -5,31 +5,36 @@ version: "Reina Valera 1995 (RVR95)"
 target_language: "Spanish"
 verses:
   "2:3":
-    - "Unos hombres llegaron cargando a un paralítico entre cuatro."
+    - "Entonces vinieron a él unos trayendo a un paralítico,"
+    - " que era cargado por cuatro."
   "2:4":
-    - "Sin poder acercarse por la multitud, abrieron el techo sobre donde estaba Jesús y bajaron la camilla con el paralizado."
+    - "Y como no podían acercarse a él a causa de la multitud,"
+    - "quitaron parte del techo de donde él estaba"
+    - "y, a través de la abertura, bajaron la camilla en que yacía el paralítico."
 vocabulary:
-  levantándose: "v. levantarse. Gerund form. to get up, to rise"
-  muy de mañana: "adv. muy de mañana. very early in the morning"
-  siendo: "v. ser. Gerund form. to be"
-  aún: "adv. aún. still, yet"
-  oscuro: "adj. oscuro. dark"
-  salió: "v. salir. Preterite él/ella/usted conjugation. to go out, to leave"
-  desierto: "adj. desierto. deserted, uninhabited"
-  oraba: "v. orar. Imperfect él/ella/usted conjugation. to pray"
-  buscó: "v. buscar. Preterite él/ella/usted conjugation. to look for, to search"
-  hallándolo: "v. hallar. Gerund form with direct object pronoun 'lo'. to find"
-  dijeron: "v. decir. Preterite ellos/ellas/ustedes conjugation. to say, to tell"
-  vecinos: "adj. vecino. neighboring"
-  predique: "v. predicar. Present subjunctive yo/él/ella/usted conjugation. to preach"
-  venido: "v. venir. Past participle form. to come"
-  predicaba: "v. predicar. Imperfect él/ella/usted conjugation. to preach"
-  sinagogas: "n. la sinagoga. synagogue"
-  echaba: "v. echar. Imperfect él/ella/usted conjugation. to throw out, to cast out"
-  fuera: "adv. fuera. out"
+  vinieron: "v. venir. Preterite ellos/ellas/ustedes conjugation. to come"
+  trayendo: "v. traer. Gerund form. to bring"
+  cargado: "v. cargar. Past participle form. to load"
+  como: "conj. como. as, since"
+  podían: "v. poder. Imperfect ellos/ellas/ustedes conjugation. to be able to"
+  acercarse: "v. acercar. Reflexive infinitive form. to approach, to get closer"
+  causa: "n. la causa. cause, reason"
+  quitaron: "v. quitar. Preterite ellos/ellas/ustedes conjugation. to remove, to take away"
+  parte: "n. la parte. part, portion"
+  techo: "n. el techo. roof, ceiling"
+  través: "prep. a través de. through, across"
+  abertura: "n. la abertura. opening, gap"
+  bajaron: "v. bajar. Preterite ellos/ellas/ustedes conjugation. to lower, to take down"
+  camilla: "n. la camilla. stretcher, gurney"
+  yacía: "v. yacer. Imperfect él/ella/usted conjugation. to lie down, to be situated"
 grammar:
-  "echaba fuera los demonios":
-    - echaba: "The verb 'echaba' is in the imperfect tense, indicating an ongoing or repeated action in the past. It describes Jesus' continuous activity of casting out demons."
-      fuera: "This is not a verb here but rather an adverb meaning 'out.' It complements the verb 'echaba' to specify the action of casting out demons."
+  "y, a través de la abertura, bajaron la camilla en que yacía el paralítico":
+    - “y, a través de la abertura, bajaron…”: 
+      - "Adds rhythmic pauses; typical in narrative / literary Spanish."
+    - "y a través de la abertura bajaron…":
+      - "Without commas, the sentence flows more directly, focusing on the action of lowering the stretcher through the opening."
+    - ", y a través de la abertura, bajaron…": 
+      - "With a comma after 'y', it emphasizes the action of lowering the stretcher through the opening as a distinct event."
+      - "Acceptable only with deliberate pause"
 Friday_review:
   note:

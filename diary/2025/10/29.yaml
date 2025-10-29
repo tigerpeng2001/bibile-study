@@ -1,0 +1,31 @@
+date: "2025-10-29"
+weekday: "Wednesday"
+book: "マルコの福音書"
+version: "新共同訳"
+target_language: "Japanese"
+verses:
+  "2:5":
+    - "イエスはその人たちの信仰を見て、"
+    - "中風の人に、「子よ、あなたの罪は赦される」と言われた。"
+  "2:6":
+    - "ところが、そこに律法学者が数人座っていて、心の中であれこれと考えた。"
+  "2:7":
+    - "「この人は、なぜこういうことを口にするのか。"
+    - "神を冒瀆している。"
+    - "神おひとりのほかに、いったいだれが、罪を赦すことができるだろうか。」"
+vocabulary:
+  信仰: "n. しんこう. faith, belief"
+  中風: "n. ちゅうふう. paralysis, stroke"
+  赦される: "v. ゆるす. Passive form. to forgive, to pardon"
+  ところが: "conj. ところが. however, but"
+  律法学者: "n. りっぽうがくしゃ. legal expert, scholar of the law"
+  数人: "n. すうにん. several people, a few people"
+  座っていて: "v. すわる. Te-form + いる. to sit"
+  心の中で: "phr. こころのなかで. in one's heart/mind"
+  考えた: "v. かんがえる. Past tense. to think, to consider"
+  冒瀆している: "v. ぼうとくする. Present progressive form. to blaspheme, to profane"
+  おひとり: "n. おひとり. one person (honorific)"
+  ほかに: "phr. ほかに. besides, other than"
+  いったい: "adv. いったい (一体). what on earth, in the world"
+Friday_review:
+  note：

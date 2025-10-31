@@ -1,0 +1,34 @@
+date: "2025-10-23"
+weekday: "Thursday"
+book: "マルコの福音書"
+version: "新共同訳"
+target_language: "Japanese"
+verses:
+  "2:8":
+    - "イエスは、彼らが心の中で考えていることを、御自分の霊の力ですぐに知って言われた。"
+    - "「なぜ、そんな考えを心に抱くのか。
+  "2.9":
+    - "中風の人に『あなたの罪は赦される』と言うのと、"
+    - "『起きて、床を担いで歩け』と言うのと、どちらが易しいか。"
+  "2.10":
+    - "人の子が地上で罪を赦す権威を持っていることを知らせよう。」"
+    - "そして、中風の人に言われた。"
+  "2.11":
+    - "「わたしはあなたに言う。起き上がり、床を担いで家に帰りなさい。」"  
+  "2.12":
+    - "その人は起き上がり、すぐに床を担いで、皆の見ている前を出て行った。"
+    - "人々は皆驚き、「このようなことは、今まで見たことがない」と言って、神を賛美した。"
+vocabulary:
+  考えている: "v. かんがえる. Te-form + いる. to think, to consider"
+  霊の力: "phr. れいのちから. spiritual power"
+  なぜ: "v. なぜ. Interrogative word. why"
+  中風: "n. ちゅうふう/ちゅうぶ/ちゅうぶう/ちゅうふ. paralysis, stroke"
+  床: "n. とこ. bed, mat (futon); ゆか.  floor"
+  権威: "n. けんい. authority, power"
+  知らせよう: "v. しらせる. Volitional form. to inform, to notify"
+  起き上がり: "v. おきあがる. Stem form. to get up, to rise"
+  担いで: "v. かつぐ. Te-form. to carry on one's shoulder"
+  驚き: "v. おどろく. Stem form. to be surprised, to be astonished"
+grammar:
+Friday_review:
+  note:

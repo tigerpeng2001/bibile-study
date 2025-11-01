@@ -37,3 +37,5 @@ grammar:
       - "Acceptable only with deliberate pause"
 Friday_review:
   note:
+    "Entonces vinieron a él unos trayendo a un paralítico, que era cargado por cuatro.":
+      - "The gerund 'trayendo' - common in Biblical Spanish to describe simultaneous actions (they came while bringing)."

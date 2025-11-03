@@ -369,6 +369,7 @@
       bring together
     de manera que: conj. de manera que. so that, in such a way that
     manera: n. la manera. manner, way
+    ya: adv. ya. already, now
     cabían: v. caber. Imperfect ellos/ellas/ustedes conjugation. to fit
     predicaba: v. predicar. Imperfect él/ella/usted conjugation. to preach, to proclaim
   grammar:
@@ -392,11 +393,11 @@
   verses:
     '2:3':
     - Entonces vinieron a él unos trayendo a un paralítico,
-    - ' que era cargado por cuatro.'
+    - que era cargado por cuatro.
     '2:4':
     - Y como no podían acercarse a él a causa de la multitud,
-    - quitaron parte del techo de donde él estaba
-    - y, a través de la abertura, bajaron la camilla en que yacía el paralítico.
+    - quitaron parte del techo de donde él estaba y, a través de la abertura, bajaron
+      la camilla en que yacía el paralítico.
   vocabulary:
     vinieron: v. venir. Preterite ellos/ellas/ustedes conjugation. to come
     trayendo: v. traer. Gerund form. to bring
@@ -427,4 +428,7 @@
         through the opening as a distinct event.
       - Acceptable only with deliberate pause
   Friday_review:
-    note: null
+    note:
+      Entonces vinieron a él unos trayendo a un paralítico, que era cargado por cuatro.:
+      - The gerund 'trayendo' - common in Biblical Spanish to describe simultaneous
+        actions (they came while bringing).

@@ -1,0 +1,25 @@
+date: "2025-11-03"
+weekday: "Monday"
+book: "Mark"
+version: "Reina Valera 1995 (RVR95)"
+target_language: "Spanish"
+verses:
+  "2.13":
+    - "Después volvió a la orilla del mar; y toda la gente venía a él, y les enseñaba. "
+  "2.14":
+    - "Al pasar, vio a Leví hijo de Alfeo sentado al banco de los tributos públicos, y le dijo:"
+    - "—Sígueme."
+    - "Y levantándose, lo siguió."
+vocabulary:
+  volvió: "v. volver. Preterite él/ella/usted conjugation. to return"
+  orilla: "n. orilla. shore; edge"
+  pasar: "v. pasar. Infinitive. to pass by"
+  vio: "v. ver. Preterite él/ella/usted conjugation. to see"
+  sentado: "adj. sentado. past participle of sentar. seated"
+  banco: "n. banco. bank; bench"
+  tributos: "n. tributo. taxes; tributes"
+  sígueme: "v. seguir + me (reflexive pronoun). Imperative tú form. Follow me"
+  levantándose: "v. levantar + se (reflexive pronoun). Gerund. getting up"  
+  siguió: "v. seguir. Preterite él/ella/usted conjugation. to follow"
+grammar:
+Friday_review:

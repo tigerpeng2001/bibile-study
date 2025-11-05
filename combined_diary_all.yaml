@@ -888,3 +888,55 @@
     siguió: v. seguir. Preterite él/ella/usted conjugation. to follow
   grammar: null
   Friday_review: null
+- date: '2025-11-05'
+  weekday: Wednesday
+  book: マルコの福音書
+  version: 新共同訳
+  target_language: Japanese
+  verses:
+    '2:17':
+    - イエスはこれを聞いて言われた。
+    - 「医者を必要とするのは、丈夫な人ではなく病人である。
+    - わたしが来たのは、正しい人を招くためではなく、罪人を招くためである。」
+  vocabulary:
+    言われた: v. いわれる. Passive form. to be said, to be told
+    必要とする: v. ひつようとする. to need, to require (suru verb)
+    丈夫な: adj. じょうぶな. healthy, strong
+    病人: n. びょうにん. sick person, patient
+    罪人: n. ざいにん. sinner
+    招く: v. まねく. to invite, to summon
+  grammar:
+    passive_form:
+      note:
+      - The passive form in Japanese is often created by adding specific endings to
+        the verb stem, indicating that the subject is the recipient of an action.
+      - It is commonly used to express actions done to the subject rather than by
+        the subject.
+      - However, in religious or respectful contexts (like speech about Jesus, kings,
+        teachers, etc.), the passive form often functions as an honorific
+      - — it doesnt mean 'was said (by someone)' but 'said (respectfully)'。
+      example:
+        言われた:
+        - It was said (the subject is receiving the action of being told).
+    suru_verbs:
+      note: Suru verbs are formed by combining a noun with the verb 'する' (to do).
+        They are conjugated like regular verbs.
+      example:
+        必要とする:
+        - to need (combining '必要' meaning 'need' with 'する').
+    医者を必要とする:
+      note:
+      - This phrase literally means 'to need a doctor,' where '医者' (doctor) is the
+        object and '必要とする' (to need) is the verb.
+      - It illustrates the use of suru verbs in expressing necessity.
+      - '''と'' functions as a quotative/complement particle'
+      - AをBとする construction means 'to regard A as B', or 'to consider A to be B.',
+        or 'to need A as B.'...
+      example:
+      - 神を愛とする: to regard God as love (literally 'to need God as love').
+      - 平和を目的とする: to aim for peace (literally 'to have peace as the goal').
+  Friday_review:
+    note:
+      イエスはこれを聞いて言われた。:
+      - The passive form '言われた' is used here as an honorific to show respect when
+        referring to Jesus speaking.

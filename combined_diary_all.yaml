@@ -940,3 +940,32 @@
       イエスはこれを聞いて言われた。:
       - The passive form '言われた' is used here as an honorific to show respect when
         referring to Jesus speaking.
+- date: '2025-11-06'
+  weekday: Thursday
+  book: マルコの福音書
+  version: 新共同訳
+  target_language: Japanese
+  verses:
+    '2:18':
+    - ヨハネの弟子たちとファリサイ派の人々は、断食していた。
+    - そこで、人々はイエスのところに来て言った。「ヨハネの弟子たちとファリサイ派の弟子たちは断食しているのに、
+    - なぜ、あなたの弟子たちは断食しないのですか。」
+    '2:19':
+    - イエスは言われた。
+    - 「花婿が一緒にいるのに、婚礼の客は断食できるだろうか。
+    - 花婿が一緒にいるかぎり、断食はできない。」
+    '2:20':
+    - しかし、花婿が奪い取られる時が来る。
+    - その日には、彼らは断食することになる。
+  vocabulary:
+    弟子: 'n. でし. disciple, follower '
+    派: n. は. sect, faction, group
+    断食: n. だんじき. fasting
+    なぜ: adv. why. 何故
+    花婿: n. はなむこ. bridegroom, groom
+    婚礼: n. こんれい. wedding, marriage ceremony
+    客: n. きゃく. guest, visitor
+    うばい取る: v. うばいとる. to snatch away, to seize
+  grammar: null
+  Friday_review:
+    note: null

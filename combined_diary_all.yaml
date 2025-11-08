@@ -766,6 +766,7 @@
     discípulos: n. discípulo. disciples, followers, students
     habían: v. haber. Imperfect ellos/ellas/ustedes conjugation. to have (auxiliary
       verb)
+    seguido: v. seguir. Past participle. followed
   grammar:
     imperfect:
       note: The Imperfect tense is used to describe ongoing or habitual actions in
@@ -779,10 +780,7 @@
         aconteció:
         - It happened (completed action in the past).
   Friday_review:
-    note:
-      Entonces vinieron a él unos trayendo a un paralítico, que era cargado por cuatro.:
-      - The gerund 'trayendo' - common in Biblical Spanish to describe simultaneous
-        actions (they came while bringing).
+    note: null
 - date: '2025-10-29'
   weekday: Wednesday
   book: マルコの福音書
@@ -962,9 +960,17 @@
     弟子: 'n. でし. disciple, follower '
     派: n. は. sect, faction, group
     断食: n. だんじき. fasting
+    のに: conj. although, even though. used to express contrast between two clauses.
+      similar to 'けれども' or 'のにだが', but often with a stronger sense of unexpectedness
+      or contradiction
     なぜ: adv. why. 何故
     花婿: n. はなむこ. bridegroom, groom
     婚礼: n. こんれい. wedding, marriage ceremony
+    できる: v. できる. potential form of する. to be able to do, can do
+    だろうか: aux. expresses uncertainty or a question. similar to 'でしょうか', often used
+      in spoken or informal contexts
+    いるかぎり: phrase. as long as, while. 〜かぎり means 'as long as' or 'while', indicating
+      a condition that must be met for something to happen
     客: n. きゃく. guest, visitor
     うばい取る: v. うばいとる. to snatch away, to seize
   grammar: null

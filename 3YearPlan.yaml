@@ -21,6 +21,10 @@ versions:
       - name: "Reina Valera 1995 (RVR95)"
         type: "Formal Equivalence"
         source: "YouVersion"
+      - name: "Nueva Biblia de las Américas(NBLA)"
+        type: "Formal Equivalence (Compare)"
+        source: "YouVersion"
+        comment: "swithed to NBLA on 2025-11-10, for more modern language"
   Japanese:
     target_language: true
     focus_days: "Wed/Thu"

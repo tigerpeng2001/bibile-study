@@ -454,6 +454,7 @@
     discípulos: n. discípulo. disciples, followers, students
     habían: v. haber. Imperfect ellos/ellas/ustedes conjugation. to have (auxiliary
       verb)
+    seguido: v. seguir. Past participle. followed
   grammar:
     imperfect:
       note: The Imperfect tense is used to describe ongoing or habitual actions in
@@ -467,10 +468,7 @@
         aconteció:
         - It happened (completed action in the past).
   Friday_review:
-    note:
-      Entonces vinieron a él unos trayendo a un paralítico, que era cargado por cuatro.:
-      - The gerund 'trayendo' - common in Biblical Spanish to describe simultaneous
-        actions (they came while bringing).
+    note: null
 - date: '2025-11-03'
   weekday: Monday
   book: Mark

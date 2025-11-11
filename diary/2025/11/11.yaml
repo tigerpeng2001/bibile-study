@@ -1,0 +1,36 @@
+date: "2025-11-11"
+weekday: "Tuesday"
+book: "Mark"
+version: "Nueva Biblia de las Américas (NBLA)"
+target_language: "Spanish"
+verses:
+  "2:23":
+    - "Aconteció que un día de reposo Jesús pasaba por los sembrados, y Sus discípulos, mientras se abrían paso, comenzaron a arrancar espigas. "
+  "2:24":
+    - "Entonces los fariseos le decían: «Mira, ¿por qué hacen lo que no es lícito en el día de reposo?»."
+vocabulary:
+  aconteció: "v. acontecer. Preterite él/ella/usted conjugation. to happen, to occur"
+  reposo: "n. reposo. rest, Sabbath"
+  pasaba: "v. pasar. Imperfect él/ella/usted conjugation. was passing"
+  sembrados: "n. sembrado. fields, planted areas"
+  abrían: "v. abrir. Imperfect ellos/ellas/ustedes conjugation. were opening, were making their way"
+  comenzaron: "v. comenzar. Preterite ellos/ellas/ustedes conjugation. began"
+  arrancar: "v. arrancar. Infinitive. to pull out, to pick"
+  espigas: "n. espiga. ear (of grain), spike"
+  mira: "v. mirar. Imperative tú form. look"
+  lícito: "adj. lícito. lawful, permitted" 
+grammar:
+  imperfect:
+    note:
+      "The Imperfect tense is used to describe ongoing or habitual actions in the past."
+    example:
+      "habían seguido":
+        - "They had followed (ongoing action in the past)."
+  preterite:
+    note:
+      "The Preterite tense is used to describe completed actions in the past."
+    example:
+      "aconteció":
+        - "It happened (completed action in the past)."
+Friday_review:
+  note:

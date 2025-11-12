@@ -479,3 +479,33 @@
   grammar: null
   Friday_review:
     note: null
+- date: '2025-11-12'
+  weekday: Wednesday
+  book: マルコの福音書
+  version: 新共同訳 (日本聖書協会 1987, 1988)
+  target_language: Japanese
+  verses:
+    '2:25':
+    - イエスは言われた。「ダビデが、自分も供の者たちも、食べ物がなくて空腹だったときに何をしたか、
+    - 一度も読んだことがないのか。
+    '2:26':
+    - アビアタルが大祭司であったとき、ダビデは神の家に入り、
+    - 祭司のほかにはだれも食べてはならない供えのパンを食べ、
+    - 一緒にいた者たちにも与えたではないか。」
+    '2:27':
+    - そして更に言われた。「安息日は、人のために定められた。
+    - 人が安息日のためにあるのではない。
+    '2:28':
+    - だから、人の子は安息日の主でもある。」
+  vocabulary:
+    空腹: n. くうふく. hunger, starving
+    供の者: n. とものもの. attendants, servants
+    一度も: adv. いちども. never (with neg. verb), ever (with pos. verb)
+    だいさいし: n. 大祭司. high priest
+    供えのパン: n. そなえのパン. consecrated bread, showbread
+    与えた: v. あたえる. Past tense. gave, provided
+    定められた: v. さだめる. Passive past tense. was established, was ordained
+    主: n. しゅ. lord, master
+  grammar: null
+  Friday_review:
+    note: null

@@ -479,6 +479,30 @@
   grammar: null
   Friday_review:
     note: null
+- date: 2025-11-1
+  weekday: Thursday
+  book: マルコの福音書
+  version: 新共同訳 (日本聖書協会 1987, 1988)
+  target_language: Japanese
+  verses:
+    '3:1':
+    - イエスはまた会堂にお入りになった。そこに片手の萎えた人がいた。
+    '3:2':
+    - 人々はイエスを訴えようと思って、安息日にこの人の病気をいやされるかどうか、注目していた。
+    '3:3':
+    - イエスは手の萎えた人に、「真ん中に立ちなさい」と言われた。
+  vocabulary:
+    会堂: n. かいどう. synagogue
+    片手: n. かたて. one hand, single hand
+    萎えた: adj. なえた. withered, wilted
+    訴えよう: v. うったえよう. volitional form. to try to accuse, to try to sue
+    注目していた: v. ちゅうもくする. Past progressive tense. was paying attention, was focusing
+      on
+    真ん中: n. まんなか. center, middle
+    立ちなさい: v. たつ. Imperative form. stand up, stand in the middle
+  grammar: null
+  Friday_review:
+    note: null
 - date: '2025-11-12'
   weekday: Wednesday
   book: マルコの福音書

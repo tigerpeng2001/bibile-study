@@ -529,40 +529,6 @@
     sino: conj. sino. but rather
   grammar: null
   Friday_review: null
-- date: '2025-11-10'
-  weekday: Monday
-  book: Marcos
-  version: Nueva Biblia de las Américas (NBLA)
-  target_language: Spanish
-  verses:
-    '2.21':
-    - Nadie pone un remiendo de tela nueva en un vestido viejo,
-    - porque entonces el remiendo al encogerse tira de él, lo nuevo de lo viejo,
-    - y se produce una rotura peor.
-    '2.22':
-    - Y nadie echa vino nuevo en odres viejos,
-    - porque entonces el vino romperá el odre,
-    - y se pierden el vino y también los odres;
-    - sino que se echa vino nuevo en odres nuevos».
-  vocabulary:
-    pone: v. poner. Present él/ella/usted conjugation. puts
-    remiendo: n. remiendo. patch
-    tela: n. tela. fabric
-    vestido: n. vestido. dress
-    viejo: adj. viejo. old
-    entonces: adv. entonces. then
-    encogerse: v. encogerse. Infinitive reflexive. to shrink
-    tira: v. tirar. Present él/ella/usted conjugation. pulls
-    produce: v. producir. Present él/ella/usted conjugation. produces
-    rotura: n. rotura. rupture, breakage, tear, break
-    peor: adj. peor. worse
-    echa: v. echar. Present él/ella/usted conjugation. puts, pours
-    odres: n. odre. wineskin (plural)
-    romperá: v. romper. Future él/ella/usted conjugation. will break
-    pierden: v. perder. Present ellos/ellas/ustedes conjugation. lose
-    sino: conj. sino. but rather
-  grammar: null
-  Friday_review: null
 - date: '2025-11-11'
   weekday: Tuesday
   book: Marcos
@@ -599,5 +565,83 @@
       example:
         aconteció:
         - It happened (completed action in the past).
+  Friday_review:
+    note: null
+- date: '2025-11-17'
+  weekday: Monday
+  book: Marcos
+  version: Nueva Biblia de las Américas (NBLA)
+  target_language: Spanish
+  verses:
+    '3.4':
+    - 'Entonces Jesús dijo* a los otros:'
+    - «¿Es lícito en el día de reposo hacer bien o hacer mal, salvar una vida o matar?».
+    - Pero ellos guardaban silencio.
+    '3.5':
+    - Y mirando con enojo a los que lo rodeaban,
+    - y entristecido por la dureza de sus corazones,
+    - 'le dijo* al hombre: «Extiende tu mano».'
+    - ' Y él la extendió, y su mano quedó sana'
+    '3:6':
+    - Pero cuando los fariseos salieron,
+    - enseguida comenzaron a tramar con los herodianos en contra de Jesús,
+    - para ver cómo lo podrían destruir.
+  vocabulary:
+    lícito: adj. lícito. lawful, permitted
+    matar: v. matar. Infinitive. to kill
+    guardaban: v. guardar. Imperfect ellos/ellas/ustedes conjugation. were keeping,
+      were observing
+    mirando: v. mirar. Gerund. looking
+    enojo: n. enojo. anger
+    rodeaban: v. rodear. Imperfect ellos/ellas/ustedes conjugation. were surrounding
+    entristecido: adj. entristecido. saddened
+    extendió: v. extender. Preterite él/ella/usted conjugation. extended
+    quedó: v. quedar. Preterite él/ella/usted conjugation. became, was made
+    salieron: v. salir. Preterite ellos/ellas/ustedes conjugation. went out
+    enseguida: adv. enseguida. immediately
+    comenzaron: v. comenzar. Preterite ellos/ellas/ustedes conjugation. began
+    tramar: v. tramar. Infinitive. to plot, to scheme
+    contra: prep. contra. against
+    ver: v. ver. Infinitive. to see
+    podrían: v. poder. Conditional ellos/ellas/ustedes conjugation. could
+    destruir: v. destruir. Infinitive. to destroy
+  grammar:
+    le dijo al hombre:
+    - note:
+      - '''le'' is an indirect object pronoun referring to ''al hombre'' (to the man). '
+      - 'In Spanish, indirect object pronouns are used to indicate to whom or for
+        whom an action is performed. '
+      - Here, 'le dijo' translates to 'he said to him,' indicating that Jesus is speaking
+        directly to the man.
+      - In Spanish, especially when referring to a person, it is very common and grammatically
+        preferred to use the indirect object pronoun (le) even when the full indirect
+        object (al hombre) is explicitly stated.
+      - 'Correct (Standard Spanish): le dijo al hombre... (Jesus to him said to the
+        man...)'
+      - 'Incorrect (Awkward Spanish): Jesús dijo al hombre... (This is sometimes called
+        leísmo if le is used incorrectly, but its omission here is unnatural for a
+        personal indirect object).'
+      - The 'le' ensures the sentence flows correctly and follows standard pronoun
+        placement rules.
+  Friday_review: null
+- date: '2025-11-18'
+  weekday: Tuesday
+  book: Marcos
+  version: Nueva Biblia de las Américas (NBLA)
+  target_language: Spanish
+  verses:
+    '3:7':
+    - 'Entonces Jesús se retiró al mar con Sus discípulos, y una gran multitud de
+      Galilea lo siguió. Y también de Judea, '
+    '3:8':
+    - de Jerusalén, de Idumea, del otro lado del Jordán, y de los alrededores de Tiro
+      y Sidón, una gran multitud, que al oír todo lo que Jesús hacía, vino a Él.
+  vocabulary:
+    retiró: v. retirar. Preterite él/ella/usted conjugation. to withdraw, to retire
+    siguió: v. seguir. Preterite él/ella/usted conjugation. to follow
+    lado: n. lado. side
+    alrededores: n. alrededores. surroundings, vicinity
+    vino: v. venir. Preterite ellos/ellas/ustedes conjugation. to come
+  grammar: null
   Friday_review:
     note: null

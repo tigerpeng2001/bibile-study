@@ -479,30 +479,6 @@
   grammar: null
   Friday_review:
     note: null
-- date: 2025-11-1
-  weekday: Thursday
-  book: マルコの福音書
-  version: 新共同訳 (日本聖書協会 1987, 1988)
-  target_language: Japanese
-  verses:
-    '3:1':
-    - イエスはまた会堂にお入りになった。そこに片手の萎えた人がいた。
-    '3:2':
-    - 人々はイエスを訴えようと思って、安息日にこの人の病気をいやされるかどうか、注目していた。
-    '3:3':
-    - イエスは手の萎えた人に、「真ん中に立ちなさい」と言われた。
-  vocabulary:
-    会堂: n. かいどう. synagogue
-    片手: n. かたて. one hand, single hand
-    萎えた: adj. なえた. withered, wilted
-    訴えよう: v. うったえよう. volitional form. to try to accuse, to try to sue
-    注目していた: v. ちゅうもくする. Past progressive tense. was paying attention, was focusing
-      on
-    真ん中: n. まんなか. center, middle
-    立ちなさい: v. たつ. Imperative form. stand up, stand in the middle
-  grammar: null
-  Friday_review:
-    note: null
 - date: '2025-11-12'
   weekday: Wednesday
   book: マルコの福音書
@@ -530,6 +506,53 @@
     与えた: v. あたえる. Past tense. gave, provided
     定められた: v. さだめる. Passive past tense. was established, was ordained
     主: n. しゅ. lord, master
+  grammar: null
+  Friday_review:
+    note: null
+- date: '2025-11-13'
+  weekday: Thursday
+  book: マルコの福音書
+  version: 新共同訳 (日本聖書協会 1987, 1988)
+  target_language: Japanese
+  verses:
+    '3:1':
+    - イエスはまた会堂にお入りになった。そこに片手の萎えた人がいた。
+    '3:2':
+    - 人々はイエスを訴えようと思って、安息日にこの人の病気をいやされるかどうか、注目していた。
+    '3:3':
+    - イエスは手の萎えた人に、「真ん中に立ちなさい」と言われた。
+  vocabulary:
+    会堂: n. かいどう. synagogue
+    片手: n. かたて. one hand, single hand
+    萎えた: adj. なえた. withered, wilted
+    訴えよう: v. うったえよう. volitional form. to try to accuse, to try to sue
+    注目していた: v. ちゅうもくする. Past progressive tense. was paying attention, was focusing
+      on
+    真ん中: n. まんなか. center, middle
+    立ちなさい: v. たつ. Imperative form. stand up, stand in the middle
+  grammar: null
+  Friday_review:
+    note: null
+- date: '2025-11-19'
+  weekday: Wednesday
+  book: マルコの福音書
+  version: 新共同訳 (日本聖書協会 1987, 1988)
+  target_language: Japanese
+  verses:
+    '3:9':
+    - そこで、イエスは弟子たちに小舟を用意してほしいと言われた。群衆に押しつぶされないためである。
+    '3:10':
+    - イエスが多くの病人をいやされたので、病気に悩む人たちが皆、イエスに触れようとして、そばに押し寄せたからであった。
+  vocabulary:
+    小船: n. こぶね. small boat, dinghy
+    用意してほしい: v. よういする. Te-form + ほしい. want someone to prepare, want someone to arrange
+    gon群衆: n. ぐんしゅう. crowd, mass of people
+    押しつぶされない: v. おしつぶす. Negative potential form. not be crushed, not be overwhelmed
+    病人: n. びょうにん. sick person, patient
+    病気: n. びょうき. illness, disease
+    悩む: v. なやむ. to suffer, to be troubled
+    触れようとして: v. ふれる. Te-form + とする. try to touch
+    押し寄せた: v. おしよせる. Past tense. surged, flocked
   grammar: null
   Friday_review:
     note: null

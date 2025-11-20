@@ -556,3 +556,23 @@
   grammar: null
   Friday_review:
     note: null
+- date: '2025-11-20'
+  weekday: Thursday
+  book: マルコの福音書
+  version: 新共同訳 (日本聖書協会 1987, 1988)
+  target_language: Japanese
+  verses:
+    '3:11':
+    - 汚れた霊どもは、イエスを見るとひれ伏して、「あなたは神の子だ」と叫んだ。
+    '3:12':
+    - イエスは、自分のことを言いふらさないようにと霊どもを厳しく戒められた。
+  vocabulary:
+    汚れた霊: n. きたなれたれい. unclean spirit, evil spirit
+    ひれ伏して: v. ひれふす. Te-form. to prostrate oneself, to bow down
+    言いふらさないように: v. いいふらす. Negative volitional form + に. not to spread around, not
+      to publicize
+    厳しく: adv. きびしく. strictly, severely
+    戒められた: v. いましめる. Past tense (honorific). to admonish, to warn strongly
+  grammar: null
+  Friday_review:
+    note: null

@@ -1,0 +1,19 @@
+date: "2025-11-18"
+weekday: "Tuesday"
+book: "Marcos"
+version: "Nueva Biblia de las Américas (NBLA)"
+target_language: "Spanish"
+verses:
+  "3:7":
+    - "Entonces Jesús se retiró al mar con Sus discípulos, y una gran multitud de Galilea lo siguió. Y también de Judea, "
+  "3:8":
+    - "de Jerusalén, de Idumea, del otro lado del Jordán, y de los alrededores de Tiro y Sidón, una gran multitud, que al oír todo lo que Jesús hacía, vino a Él."
+vocabulary:
+  retiró: "v. retirar. Preterite él/ella/usted conjugation. to withdraw, to retire"
+  siguió: "v. seguir. Preterite él/ella/usted conjugation. to follow"
+  lado: "n. lado. side"
+  alrededores: "n. alrededores. surroundings, vicinity"
+  vino: "v. venir. Preterite ellos/ellas/ustedes conjugation. to come"
+grammar:
+Friday_review:
+  note:

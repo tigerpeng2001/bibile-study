@@ -38,8 +38,8 @@ vocabulary:
 grammar:
   "le dijo al hombre": 
     - note: 
-      - "'le' is an indirect object pronoun referring to 'al hombre' (to the man). 
-      - "In Spanish, indirect object pronouns are used to indicate to whom or for whom an action is performed. 
+      - "'le' is an indirect object pronoun referring to 'al hombre' (to the man). "
+      - "In Spanish, indirect object pronouns are used to indicate to whom or for whom an action is performed. "
       - "Here, 'le dijo' translates to 'he said to him,' indicating that Jesus is speaking directly to the man." 
       - "In Spanish, especially when referring to a person, it is very common and grammatically preferred to use the indirect object pronoun (le) even when the full indirect object (al hombre) is explicitly stated."
       - "Correct (Standard Spanish): le dijo al hombre... (Jesus to him said to the man...)"
